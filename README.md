@@ -48,8 +48,6 @@
   - JS library to search Farcaster against an index node.
 - [YashKarthik/frencaster-v2](https://github.com/YashKarthik/frencaster-v2)
   - Create a diagram that shows your Farcaster circle.
-- [kn/ncbot](https://github.com/kn/ncbot)
-  - New caster bot — recasts new Farcaster users for their first three days.
 - [whatrocks/farcaster-feed](https://github.com/whatrocks/farcaster-feed)
   - Syndicates a user's casts via JS to another surface, like a static site.
 
@@ -75,8 +73,9 @@
 
 - [Paragraph supports Farcaster comments](https://paragraph.xyz/@blog/farcaster-comments)
 
-
 ## Bots
+
+These bots are available on Farcaster. You can mention them in a cast to get a reply.
 
 - [@chatgpt](https://fcast.me/chatgpt) Mention "@chatgpt `Prompt`" to get a reply from ChatGPT.
 - [@event](https://fcast.me/event) Write a cast in the format "@event: `Title`, `Date + Time`, `Location`, `External Link (optional)`" to create an event on Eventcaster.
@@ -91,6 +90,7 @@
 - [@alert](https://fcast.me/alert) Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
 - [@welcome](https://fcast.me/welcome) Welcomes new users to Farcaster.
 - [@ncbot](https://fcast.me/ncbot) Recasts the first 5 casts of new users for their first 3 days on Farcaster.
+  - Open source at [kn/ncbot](https://github.com/kn/ncbot).
 - [@coffeebot](https://fcast.me/coffeebot) Each week Coffebot randomly pairs casters together for a coffee chat.
 
 ## Contributions
