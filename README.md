@@ -7,71 +7,21 @@
 - [Searchcaster](https://searchcaster.xyz/) - Search
 - [Discove](https://discove.xyz) - Discovery
 - [Alertcaster](https://alertcaster.xyz) - Alerts
-- [Launchcaster](https://launchcaster.xyz) - Project launches
+- [Launchcaster](https://launchcaster.xyz) - Track project launches
 - [Instacaster](https://instacaster.xyz) - Images
 - [Pincaster](https://pincaster.xyz) - Save and collect casts
-- [Raycast Extension for Searching Farcaster](https://raycast.com/gregskril/searchcaster) - Search
 - [Yup's Farcaster Feed](https://app.yup.io/feed/farcaster) - Web
-- [Sealcaster](https://sealcaster.xyz) - Anonymous casting
+- [Sealcaster](https://sealcaster.xyz) - Anonymous casting with cryptography
 - [Purple](https://getpurple.xyz) - Search and discovery
 - [Omilos](https://omilos.xyz) - Web
 
-## Dev Docs
+## Tools
 
-- [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
-  - Farcaster protocol specification.
-- [farcasterxyz/hub](https://github.com/farcasterxyz/hub)
-  - An implementation of the Farcaster protocol specification.
-- [Farcaster Contributing Guidelines](https://github.com/farcasterxyz/hub/blob/main/CONTRIBUTING.md)
-- [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
-
-## Dev Tools
-
-- [CastRSS](https://castrss.xyz) - Make user-specific RSS feeds.
-- [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
 - [fcast](https://fcast.me) - Link to Farcast profiles.
 - [Sharecaster](https://sharecaster.xyz/) - Make preview-friendly links to casts.
-
-## Repos
-
-- [standard-crypto/farcaster-js](https://github.com/standard-crypto/farcaster-js)
-  - General-purpose JS interface.
-- [TheLDB/farcaster-rs](https://github.com/TheLDB/farcaster-rs)
-  - General-purpose Rust interface.
-- [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
-  - Indexes Farcaster profiles and casts.
-- [BigWhaleLabs/botcaster/](https://github.com/BigWhaleLabs/botcaster/)
-  - Farcaster bot framework.
-- [zachterrell57/farcaster-auth](https://github.com/zachterrell57/farcaster-auth)
-  - Authenticating with the Farcaster protocol.
-- [gskril/farcaster-search](https://github.com/gskril/farcaster-search)
-  - JS library to search Farcaster against an index node.
-- [YashKarthik/frencaster-v2](https://github.com/YashKarthik/frencaster-v2)
-  - Create a diagram that shows your Farcaster circle.
-- [whatrocks/farcaster-feed](https://github.com/whatrocks/farcaster-feed)
-  - Syndicates a user's casts via JS to another surface, like a static site.
-
-## Dashboards, Analytics, and Ecosystem Sites
-
-- [Castalytics](https://castalytics.farcase.xyz) - User analytics.
-- [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
-- [Eventcaster](https://eventcaster.xyz) - Unofficial Farcaster community events.
-- [Farapps](https://farapps.farcase.xyz) - Showcase of apps.
-  - Open source [here](https://github.com/farcase/farapps).
-- [Merkle Manufactory's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
-- [Farcaster Network](https://farcaster.network) - Network dashboard.
-- [SQLCaster](https://sqlcaster.xyz) - Query data.
-- [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
-  - Open source [here](https://github.com/shrimalmadhur/trendcaster).
-- [Goerli Subgraph](https://thegraph.com/hosted-service/subgraph/0xsarvesh/farcaster-goerli) - Farcaster data on Ethereum's Goerli testnet.
-
-## APIs
-
-- [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
-
-## Integrations
-
-- [Paragraph supports Farcaster comments](https://paragraph.xyz/@blog/farcaster-comments)
+- [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search
+- [CastRSS](https://castrss.xyz) - Make user-specific RSS feeds.
+- [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
 
 ## Bots
 
@@ -92,6 +42,57 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@ncbot](https://fcast.me/ncbot) Recasts the first 5 casts of new users for their first 3 days on Farcaster.
   - Open source at [kn/ncbot](https://github.com/kn/ncbot).
 - [@coffeebot](https://fcast.me/coffeebot) Each week Coffebot randomly pairs casters together for a coffee chat.
+
+### Community
+
+- [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
+- [Eventcaster](https://eventcaster.xyz) - Unofficial Farcaster community events.
+- [Farapps](https://farapps.farcase.xyz) - Showcase of apps.
+  - Open source [here](https://github.com/farcase/farapps).
+- [Merkle Manufactory's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
+
+## Developer Resources
+
+### Documentation
+
+- [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
+  - Farcaster protocol specification.
+- [farcasterxyz/hub](https://github.com/farcasterxyz/hub)
+  - An implementation of the Farcaster protocol specification.
+- [Farcaster Contributing Guidelines](https://github.com/farcasterxyz/hub/blob/main/CONTRIBUTING.md)
+- [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
+
+### Repos
+
+- [standard-crypto/farcaster-js](https://github.com/standard-crypto/farcaster-js)
+  - General-purpose JS interface.
+- [TheLDB/farcaster-rs](https://github.com/TheLDB/farcaster-rs)
+  - General-purpose Rust interface.
+- [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
+  - Indexes Farcaster profiles and casts.
+- [BigWhaleLabs/botcaster/](https://github.com/BigWhaleLabs/botcaster/)
+  - Farcaster bot framework.
+- [zachterrell57/farcaster-auth](https://github.com/zachterrell57/farcaster-auth)
+  - Authenticating with the Farcaster protocol.
+- [gskril/farcaster-search](https://github.com/gskril/farcaster-search)
+  - JS library to search Farcaster against an index node.
+- [YashKarthik/frencaster-v2](https://github.com/YashKarthik/frencaster-v2)
+  - Create a diagram that shows your Farcaster circle.
+- [whatrocks/farcaster-feed](https://github.com/whatrocks/farcaster-feed)
+  - Syndicates a user's casts via JS to another surface, like a static site.
+
+### Analytics and Data
+
+- [Castalytics](https://castalytics.farcase.xyz) - User analytics.
+- [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
+- [Farcaster Network](https://farcaster.network) - Network dashboard.
+- [Goerli Subgraph](https://thegraph.com/hosted-service/subgraph/0xsarvesh/farcaster-goerli) - Farcaster data on Ethereum's Goerli testnet.
+- [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
+  - Open source [here](https://github.com/shrimalmadhur/trendcaster).
+
+### APIs
+
+- [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
 
 ## Contributions
 
