@@ -14,6 +14,7 @@
 - [Sealcaster](https://sealcaster.xyz) - Anonymous casting with cryptography
 - [Purple](https://getpurple.xyz) - Search and discovery
 - [Omilos](https://omilos.xyz) - Web
+- [Absorb](https://www.getabsorb.com) - Video (Web)
 
 ## Tools
 
