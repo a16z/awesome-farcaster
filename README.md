@@ -2,7 +2,7 @@
 
 ## Clients
 
-- [Phrasetown](https://phrasetown.com/) - Web
+- [Phrasetown](https://phrasetown.com/) - General
 - [Pixel Pool](https://www.pixelpool.xyz) - Video
 - [Searchcaster](https://searchcaster.xyz/) - Search
 - [Discove](https://discove.xyz) - Discovery
@@ -10,11 +10,11 @@
 - [Launchcaster](https://launchcaster.xyz) - Track project launches
 - [Instacaster](https://instacaster.xyz) - Images
 - [Pincaster](https://pincaster.xyz) - Save and collect casts
-- [Yup's Farcaster Feed](https://app.yup.io/feed/farcaster) - Web
-- [Sealcaster](https://sealcaster.xyz) - Anonymous casting with cryptography
+- [Yup's Farcaster Feed](https://app.yup.io/feed/farcaster) - General
+- [Sealcaster](https://sealcaster.xyz) - Anonymous casting through cryptography
 - [Purple](https://getpurple.xyz) - Search and discovery
-- [Omilos](https://omilos.xyz) - Web
-- [Absorb](https://www.getabsorb.com) - Video (Web)
+- [Omilos](https://omilos.xyz) - General
+- [Absorb](https://www.getabsorb.com) - Video
 
 ## Tools
 
