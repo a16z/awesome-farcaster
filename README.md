@@ -56,12 +56,16 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Documentation
 
+- [Farcaster API Documentation](https://api.farcaster.xyz/docs)
+  - Merkle Manufactory's documentation for the v2 API, which will be supported by Hubs.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub)
   - An implementation of the Farcaster protocol specification.
 - [Farcaster Contributing Guidelines](https://github.com/farcasterxyz/hub/blob/main/CONTRIBUTING.md)
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
+- [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
+  - The Phrasetown client has its own useful API.
 
 ### Repos
 
@@ -90,10 +94,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Goerli Subgraph](https://thegraph.com/hosted-service/subgraph/0xsarvesh/farcaster-goerli) - Farcaster data on Ethereum's Goerli testnet.
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
-
-### APIs
-
-- [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
 
 ## Contributions
 
