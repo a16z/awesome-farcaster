@@ -28,21 +28,21 @@
 
 These bots are available on Farcaster. You can mention them in a cast to get a reply.
 
-- [@chatgpt](https://fcast.me/chatgpt) Mention "@chatgpt `Prompt`" to get a reply from ChatGPT.
-- [@event](https://fcast.me/event) Write a cast in the format "@event: `Title`, `Date + Time`, `Location`, `External Link (optional)`" to create an event on Eventcaster.
-- [@remindme](https://fcast.me/remindme) Reply to any cast with "@remindme `Number` `Day or Month or Year`" to be reminded in the future.
-- [@bot](https://fcast.me/bot) Mention "@bot `Prompt`" to get a reply from @bot, or cast "@bot faucet" to get goerli eth.
-- [@launch](https://fcast.me/launch) Reply to any cast with "@launch `Title (optional)`" to launch on Launchcaster.
-- [@perl](https://fcast.me/perl) Reply to any cast with "@perl `Category (optional)`" to save it as a Perl.
-- [@beb](https://fcast.me/beb) Reply to any cast with "@beb `Community (optional)`" to share it on Beb.
-- [@poll](https://fcast.me/poll) Reply to any cast that includes a poll with "@poll" to see the poll results as an image.
-- [@mintit](https://fcast.me/mintit) Reply to any cast with "@mintit" to mint the cast as an NFT.
-- [@essay](https://fcast.me/essay) Reply to any thread with "@essay" to get a screenshot essay generated.
-- [@alert](https://fcast.me/alert) Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
-- [@welcome](https://fcast.me/welcome) Welcomes new users to Farcaster.
-- [@ncbot](https://fcast.me/ncbot) Recasts the first 5 casts of new users for their first 3 days on Farcaster.
+- [@chatgpt](https://fcast.me/chatgpt) - Mention "@chatgpt `Prompt`" to get a reply from ChatGPT.
+- [@event](https://fcast.me/event) - Write a cast in the format "@event: `Title`, `Date + Time`, `Location`, `External Link (optional)`" to create an event on Eventcaster.
+- [@remindme](https://fcast.me/remindme) - Reply to any cast with "@remindme `Number` `Day or Month or Year`" to be reminded in the future.
+- [@bot](https://fcast.me/bot) - Mention "@bot `Prompt`" to get a reply from @bot, or cast "@bot faucet" to get goerli eth.
+- [@launch](https://fcast.me/launch) - Reply to any cast with "@launch `Title (optional)`" to launch on Launchcaster.
+- [@perl](https://fcast.me/perl) - Reply to any cast with "@perl `Category (optional)`" to save it as a Perl.
+- [@beb](https://fcast.me/beb) - Reply to any cast with "@beb `Community (optional)`" to share it on Beb.
+- [@poll](https://fcast.me/poll) - Reply to any cast that includes a poll with "@poll" to see the poll results as an image.
+- [@mintit](https://fcast.me/mintit) - Reply to any cast with "@mintit" to mint the cast as an NFT.
+- [@essay](https://fcast.me/essay) - Reply to any thread with "@essay" to get a screenshot essay generated.
+- [@alert](https://fcast.me/alert) - Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
+- [@welcome](https://fcast.me/welcome) - Welcomes new users to Farcaster.
+- [@ncbot](https://fcast.me/ncbot) - Recasts the first 5 casts of new users for their first 3 days on Farcaster.
   - Open source at [kn/ncbot](https://github.com/kn/ncbot).
-- [@coffeebot](https://fcast.me/coffeebot) Each week Coffebot randomly pairs casters together for a coffee chat.
+- [@coffeebot](https://fcast.me/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
 
 ### Community
 
@@ -76,7 +76,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - General-purpose Rust interface.
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
   - Indexes Farcaster profiles and casts.
-- [BigWhaleLabs/botcaster/](https://github.com/BigWhaleLabs/botcaster/)
+- [BigWhaleLabs/botcaster](https://github.com/BigWhaleLabs/botcaster/)
   - Farcaster bot framework.
 - [zachterrell57/farcaster-auth](https://github.com/zachterrell57/farcaster-auth)
   - Authenticating with the Farcaster protocol.
