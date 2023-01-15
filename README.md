@@ -86,7 +86,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [whatrocks/farcaster-feed](https://github.com/whatrocks/farcaster-feed)
   - Syndicates a user's casts via JS to another surface, like a static site.
 - [davidfurlong/farcaster-auth-tokens](https://github.com/davidfurlong/farcaster-auth-tokens)
-  - Scripts to create and revoke farcaster auth tokens
+  - Issue and revoke auth tokens
 
 ### Analytics and Data
 
