@@ -51,6 +51,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farapps](https://farapps.farcase.xyz) - Showcase of apps.
   - Open source [here](https://github.com/farcase/farapps).
 - [Merkle Manufactory's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
+- [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
 
 ## Developer Resources
 
