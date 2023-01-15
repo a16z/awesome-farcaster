@@ -23,6 +23,7 @@
 - [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search
 - [CastRSS](https://castrss.xyz) - Make user-specific RSS feeds.
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
+- [Farcaster Directory](https://directory.yashkarthik.xyz/) - A database mapping Twitter accounts to Farcaster accounts. Enabling users to establish a link between their Twitter accounts and their Farcaster account.
 
 ## Bots
 
