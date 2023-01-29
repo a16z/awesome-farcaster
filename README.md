@@ -73,6 +73,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 - [standard-crypto/farcaster-js](https://github.com/standard-crypto/farcaster-js)
   - General-purpose JS interface.
+- [a16z/farcaster-py](https://github.com/a16z/farcaster-py)
+  - General-purpose Python interface.
 - [TheLDB/farcaster-rs](https://github.com/TheLDB/farcaster-rs)
   - General-purpose Rust interface.
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
