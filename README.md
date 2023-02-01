@@ -77,6 +77,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - General-purpose Python interface.
 - [TheLDB/farcaster-rs](https://github.com/TheLDB/farcaster-rs)
   - General-purpose Rust interface.
+- [ertan/go-farcaster](https://github.com/ertan/go-farcaster)
+  - General-purpose Go interface.
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
   - Indexes Farcaster profiles and casts.
 - [BigWhaleLabs/botcaster](https://github.com/BigWhaleLabs/botcaster/)
