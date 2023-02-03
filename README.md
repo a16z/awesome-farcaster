@@ -16,6 +16,7 @@
 - [Omilos](https://omilos.xyz) - General
 - [Absorb](https://www.getabsorb.com) - Video
 - [Farcaster](https://apps.apple.com/us/app/farcaster/id1600555445) - iOS
+- [Alphacaster](https://alphacaster.xyz) - DAO-focused
 
 ## Tools
 
