@@ -92,6 +92,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Syndicates a user's casts via JS to another surface, like a static site.
 - [davidfurlong/farcaster-auth-tokens](https://github.com/davidfurlong/farcaster-auth-tokens)
   - Issue and revoke auth tokens
+- [Karma3Labs/ts-eigencaster](https://github.com/Karma3Labs/ts-eigencaster)
+  - Farcaster profile ranking/recommendation API using the EigenTrust algorithm; powers Eigencaster ([site](https://eigencaster.k3l.io/)) ([repo](https://github.com/Karma3Labs/eigencaster)).
 
 ### Analytics and Data
 
