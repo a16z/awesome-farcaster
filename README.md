@@ -17,6 +17,7 @@
 - [Absorb](https://www.getabsorb.com) - Video
 - [Farcaster](https://apps.apple.com/us/app/farcaster/id1600555445) - iOS
 - [Alphacaster](https://alphacaster.xyz) - DAO-focused
+- [Eventcaster](https://eventcaster.xyz) - Meetups & Events
 
 ## Tools
 
@@ -49,7 +50,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 ### Community
 
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
-- [Eventcaster](https://eventcaster.xyz) - Unofficial Farcaster community events.
 - [Farapps](https://farapps.farcase.xyz) - Showcase of apps.
   - Open source [here](https://github.com/farcase/farapps).
 - [Merkle Manufactory's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
