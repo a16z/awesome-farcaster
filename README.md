@@ -2,6 +2,8 @@
 
 ## Clients
 
+- [Warpcast](https://warpcast.com/) - General
+- [Warpcast](https://apps.apple.com/us/app/farcaster/id1600555445) - iOS
 - [Phrasetown](https://phrasetown.com/) - General
 - [Pixel Pool](https://www.pixelpool.xyz) - Video
 - [Searchcaster](https://searchcaster.xyz/) - Search
@@ -15,7 +17,6 @@
 - [Purple](https://getpurple.xyz) - Search and discovery
 - [Omilos](https://omilos.xyz) - General
 - [Absorb](https://www.getabsorb.com) - Video
-- [Farcaster](https://apps.apple.com/us/app/farcaster/id1600555445) - iOS
 - [Alphacaster](https://alphacaster.xyz) - DAO-focused
 - [Eventcaster](https://eventcaster.xyz) - Meetups & Events
 
@@ -52,15 +53,15 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
 - [Farapps](https://farapps.farcase.xyz) - Showcase of apps.
   - Open source [here](https://github.com/farcase/farapps).
-- [Merkle Manufactory's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
+- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
 
 ## Developer Resources
 
 ### Documentation
 
-- [Farcaster API Documentation](https://api.farcaster.xyz/docs)
-  - Merkle Manufactory's documentation for the v2 API, which will be supported by Hubs.
+- [Warpcast API Documentation](https://api.farcaster.xyz/docs)
+  - Warpcast's documentation for the v2 API, which will be supported by Hubs.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub)
@@ -94,6 +95,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Issue and revoke auth tokens
 - [Karma3Labs/ts-eigencaster](https://github.com/Karma3Labs/ts-eigencaster)
   - Farcaster profile ranking/recommendation API using the EigenTrust algorithm; powers Eigencaster ([site](https://eigencaster.k3l.io/)) ([repo](https://github.com/Karma3Labs/eigencaster)).
+- [fmhall/fc-bot-template](https://github.com/fmhall/fc-bot-template)
+  - A template repository to quickly spin up a bot using the farcaster-py SDK
 
 ### Analytics and Data
 
