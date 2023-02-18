@@ -55,6 +55,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Open source [here](https://github.com/farcase/farapps).
 - [Warpcast's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
+- [Purple DAO](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem. 
 
 ## Developer Resources
 
