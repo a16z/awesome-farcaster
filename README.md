@@ -48,6 +48,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@ncbot](https://fcast.me/ncbot) - Recasts the first 5 casts of new users for their first 3 days on Farcaster.
   - Open source at [kn/ncbot](https://github.com/kn/ncbot).
 - [@coffeebot](https://fcast.me/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
+- [@year-progress](https://fcast.me/year-progress) - Casts out the percentage of the year complete as a progress bar.
 
 ### Community
 
