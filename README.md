@@ -2,8 +2,9 @@
 
 ## Clients
 
-- [Warpcast](https://warpcast.com/) - General
+- [Warpcast](https://warpcast.com/) - Web
 - [Warpcast](https://apps.apple.com/us/app/farcaster/id1600555445) - iOS
+- [Warpcast](https://play.google.com/store/apps/details?id=com.farcaster.mobile) - Android
 - [Phrasetown](https://phrasetown.com/) - General
 - [Pixel Pool](https://www.pixelpool.xyz) - Video
 - [Searchcaster](https://searchcaster.xyz/) - Search
