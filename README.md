@@ -15,7 +15,7 @@
 - [Pincaster](https://pincaster.xyz) - Save and collect casts
 - [Yup's Farcaster Feed](https://app.yup.io/feed/farcaster) - General
 - [Sealcaster](https://sealcaster.xyz) - Anonymous casting through cryptography
-- [Purple](https://getpurple.xyz) - Search and discovery
+- [Jam](https://jam.so/) - Search and discovery
 - [Omilos](https://omilos.xyz) - General
 - [Absorb](https://www.getabsorb.com) - Video
 - [Alphacaster](https://alphacaster.xyz) - DAO-focused
