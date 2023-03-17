@@ -20,7 +20,7 @@
 - [Absorb](https://www.getabsorb.com) - Video
 - [Alphacaster](https://alphacaster.xyz) - DAO-focused
 - [Eventcaster](https://eventcaster.xyz) - Meetups & Events
-- [TipCast](https://tipcast.xyz) - Easily Tip a Caster
+- [TipCast](https://tipcast.xyz) - Tip Casters via Polygon
 
 ## Tools
 
