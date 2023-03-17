@@ -20,6 +20,7 @@
 - [Absorb](https://www.getabsorb.com) - Video
 - [Alphacaster](https://alphacaster.xyz) - DAO-focused
 - [Eventcaster](https://eventcaster.xyz) - Meetups & Events
+- [TipCast](https://tipcast.xyz) - Easily Tip a Caster
 
 ## Tools
 
@@ -49,6 +50,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Open source at [kn/ncbot](https://github.com/kn/ncbot).
 - [@coffeebot](https://fcast.me/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
 - [@year-progress](https://fcast.me/year-progress) - Casts out the percentage of the year complete as a progress bar.
+- [@tip](https://fcast.me/tip) - Reply to any cast with "@tip" and TipCast bot will reply with a link to tip the author.
 
 ### Community
 
