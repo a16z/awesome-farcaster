@@ -51,6 +51,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@coffeebot](https://fcast.me/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
 - [@year-progress](https://fcast.me/year-progress) - Casts out the percentage of the year complete as a progress bar.
 - [@tip](https://fcast.me/tip) - Reply to any cast with "@tip" and TipCast bot will reply with a link to tip the author.
+- [@survey](https://fcast.me/survey) - Posts community-driven surveys every Monday and Wednesday.
+  - Open source at [benadamsky/surveycaster](https://github.com/benadamsky/surveycaster).
 
 ### Community
 
