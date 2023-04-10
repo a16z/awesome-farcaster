@@ -2,27 +2,47 @@
 
 ## Clients
 
-- [Warpcast](https://warpcast.com/) - Web
-- [Warpcast](https://apps.apple.com/us/app/farcaster/id1600555445) - iOS
-- [Warpcast](https://play.google.com/store/apps/details?id=com.farcaster.mobile) - Android
-- [Phrasetown](https://phrasetown.com/) - General
-- [Pixel Pool](https://www.pixelpool.xyz) - Video
-- [Searchcaster](https://searchcaster.xyz/) - Search
-- [Discove](https://discove.xyz) - Discovery
-- [Alertcaster](https://alertcaster.xyz) - Alerts
-- [Launchcaster](https://launchcaster.xyz) - Track project launches
-- [Instacaster](https://instacaster.xyz) - Images
-- [Pincaster](https://pincaster.xyz) - Save and collect casts
-- [Yup's Farcaster Feed](https://app.yup.io/feed/farcaster) - General
-- [Sealcaster](https://sealcaster.xyz) - Anonymous casting through cryptography
-- [Jam](https://jam.so/) - Search and discovery
-- [Omilos](https://omilos.xyz) - General
-- [Absorb](https://www.getabsorb.com) - Video
-- [Alphacaster](https://alphacaster.xyz) - DAO-focused
-- [Eventcaster](https://eventcaster.xyz) - Meetups & Events
-- [TipCast](https://tipcast.xyz) - Tip Casters via Polygon
-- [Hashcast](https://www.hashcast.xyz) - Search
-- [SayMore](https://saymore.tv/) - Creator Requests
+### General
+
+- [Warpcast](https://warpcast.com/)
+  - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
+- [Discove](https://discove.xyz)
+  - [Web](https://discove.xyz)
+- [Jam](https://jam.so/)
+  - [Web](https://jam.so/), [iOS](https://testflight.apple.com/join/cFmPd1r8), [Android](https://play.google.com/store/apps/details?id=xyz.purple)
+- [Phrasetown](https://phrasetown.com/)
+  - [Web](https://phrasetown.com/)
+- [Omilos](https://omilos.xyz)
+  - [Web](https://omilos.xyz)
+- [Yup](https://yup.io/)
+  - [Web](https://app.yup.io/feed/farcaster)
+
+### Specialized
+
+- [Searchcaster](https://searchcaster.xyz/)
+  - Search - [Web](https://searchcaster.xyz/)
+- [Pixel Pool](https://www.pixelpool.xyz)
+  - Video - [Web](https://www.pixelpool.xyz)
+- [Alertcaster](https://alertcaster.xyz)
+  - Alerts - [Web](https://alertcaster.xyz)
+- [Launchcaster](https://launchcaster.xyz)
+  - Track project launches - [Web](https://launchcaster.xyz)
+- [Instacaster](https://instacaster.xyz)
+  - Images - [Web](https://instacaster.xyz)
+- [Pincaster](https://pincaster.xyz)
+  - Save and collect casts - [Web](https://pincaster.xyz)
+- [Sealcaster](https://sealcaster.xyz)
+  - Anonymous casting through cryptography - [Web](https://sealcaster.xyz)
+- [Alphacaster](https://alphacaster.xyz)
+  - DAO-focused - [Web](https://alphacaster.xyz)
+- [Eventcaster](https://eventcaster.xyz)
+  - Meetups & Events - [Web](https://eventcaster.xyz)
+- [TipCast](https://tipcast.xyz)
+  - Tip Casters via Polygon - [Web](https://tipcast.xyz)
+- [SayMore](https://saymore.tv/)
+  - Creator Requests - [Web](https://saymore.tv/)
+- [Absorb](https://www.getabsorb.com)
+  - Video - [Web](https://www.getabsorb.com)
 
 ## Tools
 
