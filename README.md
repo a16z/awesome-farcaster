@@ -75,6 +75,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@tip](https://fcast.me/tip) - Reply to any cast with "@tip" and TipCast bot will reply with a link to tip the author.
 - [@survey](https://fcast.me/survey) - Posts community-driven surveys every Monday and Wednesday.
   - Open source at [benadamsky/surveycaster](https://github.com/benadamsky/surveycaster).
+- [@ditti](https://fcast.me/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
+  - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
 
 ### Community
 
@@ -83,7 +85,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Open source [here](https://github.com/farcase/farapps).
 - [Warpcast's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
-- [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem. 
+- [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
 
 ## Developer Resources
 
