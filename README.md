@@ -43,6 +43,8 @@
   - Creator Requests - [Web](https://saymore.tv/)
 - [Absorb](https://www.getabsorb.com)
   - Video - [Web](https://www.getabsorb.com)
+- [Caster News](https://casternews.xyz)
+  - Popular links, Hacker news inspired - [Web](https://casternews.xyz)
 
 ## Tools
 
