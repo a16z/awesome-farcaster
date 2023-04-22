@@ -81,7 +81,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
 - [@paragraph](https://fcast.me/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 
-
 ### Community
 
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
