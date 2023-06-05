@@ -85,7 +85,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
 - [Farapps](https://farapps.farcase.xyz) - Showcase of apps.
   - Open source [here](https://github.com/farcase/farapps).
-- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
+- [Farcasters's Discover Apps Page](https://www.farcaster.xyz/intro/discover-apps.html) - Clients, tools, and other links.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
 - [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
 
@@ -93,8 +93,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Documentation
 
-- [Warpcast API Documentation](https://api.farcaster.xyz/docs)
-  - Warpcast's documentation for the v2 API, which will be supported by Hubs.
+- [Warpcast API Documentation](https://api.warpcast.com/docs)
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub)
