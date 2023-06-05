@@ -79,6 +79,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Open source at [benadamsky/surveycaster](https://github.com/benadamsky/surveycaster).
 - [@ditti](https://fcast.me/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
+- [@paragraph](https://fcast.me/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 
 ### Community
 
