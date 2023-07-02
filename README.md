@@ -95,8 +95,9 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Documentation
 
-- [Warpcast API Documentation](https://api.farcaster.xyz/docs)
-  - Warpcast's documentation for the v2 API, which will be supported by Hubs.
+- [Farcaster Development Examples](https://www.farcaster.xyz/developers/examples.html)
+- [Warpcast API Documentation](http://api.warpcast.com/docs)
+  - Warpcast's v2 API
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub)
