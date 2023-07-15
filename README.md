@@ -98,6 +98,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 ### Documentation
 
 - [Farcaster Development Examples](https://www.farcaster.xyz/developers/examples.html)
+- [Hubble (Farcaster Hub) Documentation](https://www.thehubble.xyz)
 - [Warpcast API Documentation](http://api.warpcast.com/docs)
   - Warpcast's v2 API
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
