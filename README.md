@@ -133,7 +133,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [whatrocks/farcaster-feed](https://github.com/whatrocks/farcaster-feed)
   - Syndicates a user's casts via JS to another surface, like a static site.
 - [noctisatrae/farsign](https://github.com/noctisatrae/farsign)
-  - A package for easy sign-in with Farcaster
+  - Package to easily sign-in with Farcaster.
 - [davidfurlong/farcaster-auth-tokens](https://github.com/davidfurlong/farcaster-auth-tokens)
   - Issue and revoke auth tokens
 - [Karma3Labs/ts-eigencaster](https://github.com/Karma3Labs/ts-eigencaster)
