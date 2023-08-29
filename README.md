@@ -50,7 +50,6 @@
 
 ## Tools
 
-- [fcast](https://fcast.me) - Link to Farcast profiles.
 - [Sharecaster](https://sharecaster.xyz/) - Make preview-friendly links to casts.
 - [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search
 - [CastRSS](https://castrss.xyz) - Make user-specific RSS feeds.
@@ -101,6 +100,9 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Hubble (Farcaster Hub) Documentation](https://www.thehubble.xyz)
 - [Warpcast API Documentation](http://api.warpcast.com/docs)
   - Warpcast's v2 API
+- [Neynar API Documentation](https://neynar.com)
+  - v1 APIs replicate Warpcast v2 APIs
+  - v2 APIs unlock new capabilities
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub)
@@ -109,6 +111,9 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
 - [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
   - The Phrasetown client has its own useful API.
+
+### Services
+- [Neynar Hosted Hubs](https://hubs.neynar.com)
 
 ### Repos
 
@@ -136,6 +141,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Package to easily sign-in with Farcaster.
 - [davidfurlong/farcaster-auth-tokens](https://github.com/davidfurlong/farcaster-auth-tokens)
   - Issue and revoke auth tokens
+- [neynarxyz/farcaster-channels](https://github.com/neynarxyz/farcaster-channels)
+  - A directory for well-known channels across different Farcaster clients 
 - [Karma3Labs/ts-eigencaster](https://github.com/Karma3Labs/ts-eigencaster)
   - Farcaster profile ranking/recommendation API using the EigenTrust algorithm; powers Eigencaster ([site](https://eigencaster.k3l.io/)) ([repo](https://github.com/Karma3Labs/eigencaster)).
 - [fmhall/fc-bot-template](https://github.com/fmhall/fc-bot-template)
@@ -146,6 +153,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Castalytics](https://castalytics.farcase.xyz) - User analytics.
 - [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
 - [Farcaster Network](https://farcaster.network) - Network dashboard.
+- [Neynar SQL Playground](https://neynar.com) - Write queries, set alerts, and share dashboards made from indexed farcaster data
 - [Casterscan](https://casterscan.com) - A block explorer for Farcaster.
   - Open source [here](https://github.com/dylsteck/casterscan).
 - [Goerli Subgraph](https://thegraph.com/hosted-service/subgraph/0xsarvesh/farcaster-goerli) - Farcaster data on Ethereum's Goerli testnet.
