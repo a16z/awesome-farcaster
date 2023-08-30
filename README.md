@@ -50,7 +50,6 @@
 
 ## Tools
 
-- [fcast](https://fcast.me) - Link to Farcast profiles.
 - [Sharecaster](https://sharecaster.xyz/) - Make preview-friendly links to casts.
 - [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search
 - [CastRSS](https://castrss.xyz) - Make user-specific RSS feeds.
@@ -98,17 +97,23 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 ### Documentation
 
 - [Farcaster Development Examples](https://www.farcaster.xyz/developers/examples.html)
-- [Hubble (Farcaster Hub) Documentation](https://www.thehubble.xyz)
+- [Hubble Documentation](https://www.thehubble.xyz)
+  - Hubble is the first implementation of a Farcaster node.
 - [Warpcast API Documentation](http://api.warpcast.com/docs)
   - Warpcast's v2 API
+- [Neynar API Documentation](https://neynar.com)
+  - Various APIs and services for Farcaster.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
-- [farcasterxyz/hub](https://github.com/farcasterxyz/hub)
+- [farcasterxyz/hub](https://github.com/farcasterxyz/hub-monorepo)
   - An implementation of the Farcaster protocol specification.
 - [Farcaster Contributing Guidelines](https://github.com/farcasterxyz/hub/blob/main/CONTRIBUTING.md)
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
 - [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
   - The Phrasetown client has its own useful API.
+
+### Services
+- [Neynar Hosted Hubs](https://hubs.neynar.com)
 
 ### Repos
 
@@ -136,6 +141,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Package to easily sign-in with Farcaster.
 - [davidfurlong/farcaster-auth-tokens](https://github.com/davidfurlong/farcaster-auth-tokens)
   - Issue and revoke auth tokens
+- [neynarxyz/farcaster-channels](https://github.com/neynarxyz/farcaster-channels)
+  - A directory for well-known Channels across different Farcaster clients.
 - [Karma3Labs/ts-eigencaster](https://github.com/Karma3Labs/ts-eigencaster)
   - Farcaster profile ranking/recommendation API using the EigenTrust algorithm; powers Eigencaster ([site](https://eigencaster.k3l.io/)) ([repo](https://github.com/Karma3Labs/eigencaster)).
 - [fmhall/fc-bot-template](https://github.com/fmhall/fc-bot-template)
