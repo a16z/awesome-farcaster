@@ -43,6 +43,8 @@
   - Popular links, Hacker news inspired - [Web](https://casternews.xyz)
 - [Findcaster](https://www.findcaster.com)
   - Search - [Web](https://www.findcaster.com)
+- [Web3.bio](https://web3.bio)
+  - Farcaster identity search and Link in Bio profiles - [Web](https://web3.bio)
 
 ## Tools
 
@@ -107,6 +109,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
 - [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
   - The Phrasetown client has its own useful API.
+- [Web3.bio Profile APIs](https://api.web3.bio/#farcaster-profile-api)
+  - Farcaster profile API
 
 ### Services
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
