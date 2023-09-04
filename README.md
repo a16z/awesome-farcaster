@@ -40,7 +40,7 @@
 - [Absorb](https://www.getabsorb.com)
   - Video - [Web](https://www.getabsorb.com)
 - [Caster News](https://casternews.xyz)
-  - Popular links, Hacker news inspired - [Web](https://casternews.xyz)
+  - Popular links, inspired by Hacker News - [Web](https://casternews.xyz)
 - [Findcaster](https://www.findcaster.com)
   - Search - [Web](https://www.findcaster.com)
 - [Casterscan](https://casterscan.com/)
