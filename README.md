@@ -99,7 +99,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Hubble is the first implementation of a Farcaster node.
 - [Warpcast API Documentation](http://api.warpcast.com/docs)
   - Warpcast's v2 API
-- [Neynar API Documentation](https://neynar.com)
+- [Neynar API Documentation](https://docs.neynar.com)
   - Various APIs and services for Farcaster.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
