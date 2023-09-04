@@ -43,6 +43,8 @@
   - Popular links, Hacker news inspired - [Web](https://casternews.xyz)
 - [Findcaster](https://www.findcaster.com)
   - Search - [Web](https://www.findcaster.com)
+- [Casterscan](https://casterscan.com/)
+  - Inspired by block explorers - [Web](https://casterscan.com/)
 
 ## Tools
 
