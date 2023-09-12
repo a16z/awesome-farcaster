@@ -39,6 +39,8 @@
   - Creator Requests - [Web](https://saymore.tv/)
 - [Absorb](https://www.getabsorb.com)
   - Video - [Web](https://www.getabsorb.com)
+- [Kiwi News](https://news.kiwistand.com/)
+  - Community-curated links - [Web](https://news.kiwistand.com/)
 - [Caster News](https://casternews.xyz)
   - Popular links, inspired by Hacker News - [Web](https://casternews.xyz)
 - [Findcaster](https://www.findcaster.com)
