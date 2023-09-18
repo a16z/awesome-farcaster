@@ -16,6 +16,8 @@
   - [Web](https://omilos.xyz)
 - [Yup](https://yup.io/)
   - [Web](https://app.yup.io/feed/farcaster)
+- [Flink](http://flink.fyi/)
+-   [Web](http://flink.fyi/)
 
 ### Specialized
 
@@ -158,6 +160,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Goerli Subgraph](https://thegraph.com/hosted-service/subgraph/0xsarvesh/farcaster-goerli) - Farcaster data on Ethereum's Goerli testnet.
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
+- [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
 
 ## Contributions
 
