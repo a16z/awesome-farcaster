@@ -56,6 +56,8 @@
 - [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search
 - [CastRSS](https://castrss.xyz) - Make user-specific RSS feeds.
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
+- [XCaster](https://xcaster.xyz) - Turn your X into Farcaster.
+
 
 ## Bots
 
