@@ -47,6 +47,8 @@
   - Popular links, inspired by Hacker News - [Web](https://casternews.xyz)
 - [Findcaster](https://www.findcaster.com)
   - Search - [Web](https://www.findcaster.com)
+- [Web3.bio](https://web3.bio)
+  - Profiles - [Web](https://web3.bio)
 - [Casterscan](https://casterscan.com/)
   - Inspired by block explorers - [Web](https://casterscan.com/)
 - [Tiles](https://tiles.cool)
