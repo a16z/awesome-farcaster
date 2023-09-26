@@ -16,6 +16,8 @@
   - [Web](https://omilos.xyz)
 - [Yup](https://yup.io/)
   - [Web](https://app.yup.io/feed/farcaster)
+- [Flink](http://flink.fyi/)
+  - [Web](http://flink.fyi/)
 
 ### Specialized
 
@@ -39,12 +41,18 @@
   - Creator Requests - [Web](https://saymore.tv/)
 - [Absorb](https://www.getabsorb.com)
   - Video - [Web](https://www.getabsorb.com)
+- [Kiwi News](https://news.kiwistand.com/)
+  - Community-curated links - [Web](https://news.kiwistand.com/)
 - [Caster News](https://casternews.xyz)
-  - Popular links, Hacker news inspired - [Web](https://casternews.xyz)
+  - Popular links, inspired by Hacker News - [Web](https://casternews.xyz)
 - [Findcaster](https://www.findcaster.com)
   - Search - [Web](https://www.findcaster.com)
 - [Web3.bio](https://web3.bio)
   - Profiles - [Web](https://web3.bio)
+- [Casterscan](https://casterscan.com/)
+  - Inspired by block explorers - [Web](https://casterscan.com/)
+- [Tiles](https://tiles.cool)
+  - Inspired by VSCO - [Web](https://tiles.cool)
 
 ## Tools
 
@@ -99,7 +107,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Hubble is the first implementation of a Farcaster node.
 - [Warpcast API Documentation](http://api.warpcast.com/docs)
   - Warpcast's v2 API
-- [Neynar API Documentation](https://neynar.com)
+- [Neynar API Documentation](https://docs.neynar.com)
   - Various APIs and services for Farcaster.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
@@ -111,6 +119,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - The Phrasetown client has its own useful API.
 
 ### Services
+
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
 
 ### Repos
@@ -156,6 +165,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Goerli Subgraph](https://thegraph.com/hosted-service/subgraph/0xsarvesh/farcaster-goerli) - Farcaster data on Ethereum's Goerli testnet.
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
+- [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
 
 ## Contributions
 
