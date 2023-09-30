@@ -158,6 +158,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 ### Analytics and Data
 
 - [Castalytics](https://castalytics.farcase.xyz) - User analytics.
+- [Farcaster User Stats](https://www.farcasteruserstats.com/) - User analytics.
 - [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
 - [Farcaster Network](https://farcaster.network) - Network dashboard.
 - [Casterscan](https://casterscan.com) - A block explorer for Farcaster.
