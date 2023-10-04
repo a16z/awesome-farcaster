@@ -56,6 +56,7 @@
 
 ## Tools
 
+- [CastStorage](https://caststorage.com/) - Check your Farcaster storage usage.
 - [Sharecaster](https://sharecaster.xyz/) - Make preview-friendly links to casts.
 - [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search
 - [CastRSS](https://castrss.xyz) - Make user-specific RSS feeds.
