@@ -53,6 +53,8 @@
   - Inspired by block explorers - [Web](https://casterscan.com/)
 - [Tiles](https://tiles.cool)
   - Inspired by VSCO - [Web](https://tiles.cool)
+- [🟣 Purp.game](https://purp.game/)
+  - Peer to peer creator rewards - [Web](https://purp.game/)
 
 ## Tools
 
