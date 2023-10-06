@@ -53,6 +53,8 @@
   - Inspired by block explorers - [Web](https://casterscan.com/)
 - [Tiles](https://tiles.cool)
   - Inspired by VSCO - [Web](https://tiles.cool)
+- [Casthose](https://casthose.xyz)
+  - See new casts in real time - [Web](https://casthose.xyz)
 
 ## Tools
 
