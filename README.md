@@ -55,6 +55,8 @@
   - Inspired by VSCO - [Web](https://tiles.cool)
 - [🟣 Purp.game](https://purp.game/)
   - Peer to peer creator rewards - [Web](https://purp.game/)
+- [Casthose](https://casthose.xyz)
+  - See new casts in real time - [Web](https://casthose.xyz)
 
 ## Tools
 
