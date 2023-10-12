@@ -18,6 +18,8 @@
   - [Web](https://app.yup.io/feed/farcaster)
 - [Flink](http://flink.fyi/)
   - [Web](http://flink.fyi/)
+- [FarQuest](https://far.quest)
+  - [Web](https://far.quest)
 
 ### Specialized
 
@@ -74,7 +76,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@bot](https://fcast.me/bot) - Mention "@bot `Prompt`" to get a reply from @bot, or cast "@bot faucet" to get goerli eth.
 - [@launch](https://fcast.me/launch) - Reply to any cast with "@launch `Title (optional)`" to launch on Launchcaster.
 - [@perl](https://fcast.me/perl) - Reply to any cast with "@perl `Category (optional)`" to save it as a Perl.
-- [@beb](https://fcast.me/beb) - Reply to any cast with "@beb `Community (optional)`" to share it on Beb.
 - [@poll](https://fcast.me/poll) - Reply to any cast that includes a poll with "@poll" to see the poll results as an image.
 - [@mintit](https://fcast.me/mintit) - Reply to any cast with "@mintit" to mint the cast as an NFT.
 - [@essay](https://fcast.me/essay) - Reply to any thread with "@essay" to get a screenshot essay generated.
@@ -120,10 +121,13 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
 - [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
   - The Phrasetown client has its own useful API.
+ - [Wield Farcaster API Docs](https://docs.wield.co/farcaster/api)
+   - Free & Open-Source APIs for Farcaster.
 
 ### Services
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
+- [Wield Free Farcaster APIs & Hub](https://docs.wield.co/farcaster/api)
 
 ### Repos
 
