@@ -57,6 +57,8 @@
   - Inspired by VSCO - [Web](https://tiles.cool)
 - [Casthose](https://casthose.xyz)
   - See new casts in real time - [Web](https://casthose.xyz)
+- [Opencast](https://opencast.stephancill.co.za/)
+  - A fully open source Twitter flavoured Farcaster client - [Web](https://opencast.stephancill.co.za/) [GitHub](https://github.com/stephancill/opencast)
 - [Ponder](https://www.weponder.io)
   - Revealing the thoughts of Farcaster through public surveys - [Web](https://www.weponder.io)
 - [Bountycaster](https://www.bountycaster.xyz/)
@@ -177,7 +179,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 ### Analytics and Data
 
 - [Castalytics](https://castalytics.farcase.xyz) - User analytics.
-- [Farcaster User Stats](https://www.farcasteruserstats.com/) - User analytics.
+- [Farcaster User Stats](https://www.farcasteruserstats.com/) - User analytics. - [GitHub](https://github.com/mattwelter/farcaster-user-stats)
 - [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
 - [Farcaster Network](https://farcaster.network) - Network dashboard.
 - [Casterscan](https://casterscan.com) - A block explorer for Farcaster.
