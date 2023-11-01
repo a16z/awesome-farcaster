@@ -57,6 +57,8 @@
   - Inspired by VSCO - [Web](https://tiles.cool)
 - [Casthose](https://casthose.xyz)
   - See new casts in real time - [Web](https://casthose.xyz)
+- [Ponder](https://www.weponder.io)
+  - Revealing the thoughts of Farcaster through public surveys - [Web](https://www.weponder.io)
 
 ## Tools
 
@@ -86,8 +88,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@coffeebot](https://fcast.me/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
 - [@year-progress](https://fcast.me/year-progress) - Casts out the percentage of the year complete as a progress bar.
 - [@tip](https://fcast.me/tip) - Reply to any cast with "@tip" and TipCast bot will reply with a link to tip the author.
-- [@survey](https://fcast.me/survey) - Posts community-driven surveys every Monday and Wednesday.
-  - Open source at [benadamsky/surveycaster](https://github.com/benadamsky/surveycaster).
+- [@survey](https://fcast.me/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
 - [@ditti](https://fcast.me/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
 - [@paragraph](https://fcast.me/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
@@ -161,6 +162,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Farcaster profile ranking/recommendation API using the EigenTrust algorithm; powers Eigencaster ([site](https://eigencaster.k3l.io/)) ([repo](https://github.com/Karma3Labs/eigencaster)).
 - [fmhall/fc-bot-template](https://github.com/fmhall/fc-bot-template)
   - A template repository to quickly spin up a bot using the farcaster-py SDK
+- [ponder-surveys/farcaster-survey-bot](https://github.com/ponder-surveys/farcaster-survey-bot)
+  - An open-source NodeJS bot designed to post engaging surveys directly on Farcaster.
 
 ### Analytics and Data
 
@@ -184,3 +187,4 @@ Projects that are inactive, outdated, or no longer relevant may be removed at an
 ## Disclaimer
 
 _This list is being provided as is. No guarantee, representation, or warranty is being made, express or implied, as to the safety or correctness of the associated code. Users may experience delays, failures, errors, omissions or loss of transmitted information. Nothing in this repo should be construed as investment advice or legal advice for any particular facts or circumstances and is not meant to replace competent counsel. It is strongly advised for you to contact a reputable attorney in your jurisdiction for any questions or concerns with respect thereto. a16z is not liable for any use of the foregoing, and users should proceed with caution and use at their own risk. See a16z.com/disclosures for more info._
+
