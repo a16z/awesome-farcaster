@@ -164,6 +164,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - A template repository to quickly spin up a bot using the farcaster-py SDK
 - [ponder-surveys/farcaster-survey-bot](https://github.com/ponder-surveys/farcaster-survey-bot)
   - An open-source NodeJS bot designed to post engaging surveys directly on Farcaster.
+- [mod-protocol/mod](https://github.com/mod-protocol/mod)
+  - An open-source Editor for creating casts, rendering rich embeds and a protocol for Farcaster Mini-apps.
 
 ### Analytics and Data
 
