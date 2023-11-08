@@ -59,6 +59,8 @@
   - See new casts in real time - [Web](https://casthose.xyz)
 - [Ponder](https://www.weponder.io)
   - Revealing the thoughts of Farcaster through public surveys - [Web](https://www.weponder.io)
+- [Bountycaster](https://www.bountycaster.xyz/)
+  - Create and complete bounties on Farcaster - [Web](https://www.bountycaster.xyz)
 
 ## Tools
 
@@ -92,6 +94,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@ditti](https://fcast.me/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
 - [@paragraph](https://fcast.me/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
+- [@bountybot](https://fcast.me/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
+
 
 ### Community
 
