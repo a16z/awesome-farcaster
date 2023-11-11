@@ -128,6 +128,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - The Phrasetown client has its own useful API.
  - [Wield Farcaster API Docs](https://docs.wield.co/farcaster/api)
    - Free & Open-Source APIs for Farcaster.
+- [Farcaster Kit Docs](https://farcasterkit.com/docs)
+   - Free React hooks and API for Farcaster apps.
 
 ### Services
 
