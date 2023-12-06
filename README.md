@@ -74,27 +74,27 @@
 
 These bots are available on Farcaster. You can mention them in a cast to get a reply.
 
-- [@chatgpt](https://fcast.me/chatgpt) - Mention "@chatgpt `Prompt`" to get a reply from ChatGPT.
-- [@event](https://fcast.me/event) - Write a cast in the format "@event: `Title`, `Date + Time`, `Location`, `External Link (optional)`" to create an event on Eventcaster.
-- [@remindme](https://fcast.me/remindme) - Reply to any cast with "@remindme `Number` `Day or Month or Year`" to be reminded in the future.
-- [@bot](https://fcast.me/bot) - Mention "@bot `Prompt`" to get a reply from @bot, or cast "@bot faucet" to get goerli eth.
-- [@launch](https://fcast.me/launch) - Reply to any cast with "@launch `Title (optional)`" to launch on Launchcaster.
-- [@perl](https://fcast.me/perl) - Reply to any cast with "@perl `Category (optional)`" to save it as a Perl.
-- [@poll](https://fcast.me/poll) - Reply to any cast that includes a poll with "@poll" to see the poll results as an image.
-- [@mintit](https://fcast.me/mintit) - Reply to any cast with "@mintit" to mint the cast as an NFT.
-- [@essay](https://fcast.me/essay) - Reply to any thread with "@essay" to get a screenshot essay generated.
-- [@alert](https://fcast.me/alert) - Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
-- [@welcome](https://fcast.me/welcome) - Welcomes new users to Farcaster.
-- [@ncbot](https://fcast.me/ncbot) - Recasts the first 5 casts of new users for their first 3 days on Farcaster.
+- [@gpt](https://warpcast.com/gpt) - Mention "@gpt `Prompt`" to get a reply from ChatGPT.
+- [@event](https://warpcast.com/event) - Write a cast in the format "@event: `Title`, `Date + Time`, `Location`, `External Link (optional)`" to create an event on Eventcaster.
+- [@remindme](https://warpcast.com/remindme) - Reply to any cast with "@remindme `Number` `Day or Month or Year`" to be reminded in the future.
+- [@bot](https://warpcast.com/bot) - Mention "@bot `Prompt`" to get a reply from @bot, or cast "@bot faucet" to get goerli eth.
+- [@launch](https://warpcast.com/launch) - Reply to any cast with "@launch `Title (optional)`" to launch on Launchcaster.
+- [@perl](https://warpcast.com/perl) - Reply to any cast with "@perl `Category (optional)`" to save it as a Perl.
+- [@poll](https://warpcast.com/poll) - Reply to any cast that includes a poll with "@poll" to see the poll results as an image.
+- [@mintit](https://warpcast.com/mintit) - Reply to any cast with "@mintit" to mint the cast as an NFT.
+- [@essay](https://warpcast.com/essay) - Reply to any thread with "@essay" to get a screenshot essay generated.
+- [@alert](https://warpcast.com/alert) - Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
+- [@welcome](https://warpcast.com/welcome) - Welcomes new users to Farcaster.
+- [@ncbot](https://warpcast.com/ncbot) - Recasts the first 5 casts of new users for their first 3 days on Farcaster.
   - Open source at [kn/ncbot](https://github.com/kn/ncbot).
-- [@coffeebot](https://fcast.me/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
-- [@year-progress](https://fcast.me/year-progress) - Casts out the percentage of the year complete as a progress bar.
-- [@tip](https://fcast.me/tip) - Reply to any cast with "@tip" and TipCast bot will reply with a link to tip the author.
-- [@survey](https://fcast.me/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
-- [@ditti](https://fcast.me/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
+- [@coffeebot](https://warpcast.com/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
+- [@year-progress](https://warpcast.com/year-progress) - Casts out the percentage of the year complete as a progress bar.
+- [@tip](https://warpcast.com/tip) - Reply to any cast with "@tip" and TipCast bot will reply with a link to tip the author.
+- [@survey](https://warpcast.com/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
+- [@ditti](https://warpcast.com/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
-- [@paragraph](https://fcast.me/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
-- [@bountybot](https://fcast.me/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
+- [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
+- [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
 
 
 ### Community
