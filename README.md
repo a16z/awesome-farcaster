@@ -62,7 +62,7 @@
 - [Bountycaster](https://www.bountycaster.xyz/)
   - Create and complete bounties on Farcaster - [Web](https://www.bountycaster.xyz)
 - [33bits](https://33bits.xyz)
-  - Cast anonymously on Farcaster through Zero-Knowledge proofs
+  - Cast anonymously on Farcaster through Zero-Knowledge proofs - [Web](https://33bits.xyz)
 
 ## Tools
 
