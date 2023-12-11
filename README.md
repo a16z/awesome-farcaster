@@ -61,6 +61,8 @@
   - Revealing the thoughts of Farcaster through public surveys - [Web](https://www.weponder.io)
 - [Bountycaster](https://www.bountycaster.xyz/)
   - Create and complete bounties on Farcaster - [Web](https://www.bountycaster.xyz)
+- [33bits](https://33bits.xyz)
+  - Cast anonymously on Farcaster through Zero-Knowledge proofs
 
 ## Tools
 
