@@ -99,6 +99,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
+- [@doxxbot](https://warpcast.com/doxxbot) - Cast "@doxxbot `farcaster_username`" or reply to any cast with "@doxxbot" to get a reply with the Farcaster user's other social hangouts and top 10 ERC-20 stash.
+  - Open source at [eshaan7/doxxcaster](https://github.com/eshaan7/doxxcaster).
 
 ### Community
 
