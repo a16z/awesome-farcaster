@@ -175,6 +175,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - An open source NodeJS bot designed to post engaging surveys directly on Farcaster.
 - [mod-protocol/mod](https://github.com/mod-protocol/mod)
   - An open source Editor for creating casts, rendering rich embeds and a protocol for Farcaster Mini-apps.
+- [pugson/react-farcaster-embed](https://github.com/pugson/react-farcaster-embed)
+  - Component for displaying an embedded cast from Farcaster in your React app.
 
 ### Analytics and Data
 
