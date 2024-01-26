@@ -16,6 +16,12 @@
   - [Web](http://flink.fyi/)
 - [FarQuest](https://far.quest)
   - [Web](https://far.quest)
+- [U3](https://u3.xyz)
+  - [Web](https://u3.xyz)
+  - [PWA](https://u3.xyz)
+- [U3](https://degencast.xyz)
+  - [Web](https://degencast.xyz)
+  - [PWA](https://degencast.xyz)
 
 ### Specialized
 
