@@ -177,6 +177,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - An open source Editor for creating casts, rendering rich embeds and a protocol for Farcaster Mini-apps.
 - [pugson/react-farcaster-embed](https://github.com/pugson/react-farcaster-embed)
   - Component for displaying an embedded cast from Farcaster in your React app.
+- [Farcaster Solidity](https://github.com/pavlovdog/farcaster-solidity/)
+  - A set of Solidity libraries for working with Farcaster messages.
 
 ### Analytics and Data
 
