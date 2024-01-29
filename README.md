@@ -21,6 +21,8 @@
 
 - [Searchcaster](https://searchcaster.xyz/)
   - Search - [Web](https://searchcaster.xyz/)
+- [Crew](https://www.hifromcrew.com/join)
+  - Team/multiple accounts - [Web](https://www.hifromcrew.com/join)
 - [Alertcaster](https://alertcaster.xyz)
   - Alerts - [Web](https://alertcaster.xyz)
 - [Launchcaster](https://launchcaster.xyz)
