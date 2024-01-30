@@ -43,16 +43,12 @@
   - Video - [Web](https://www.getabsorb.com)
 - [Kiwi News](https://news.kiwistand.com/)
   - Community-curated links - [Web](https://news.kiwistand.com/)
-- [Caster News](https://casternews.xyz)
-  - Popular links, inspired by Hacker News - [Web](https://casternews.xyz)
 - [Findcaster](https://www.findcaster.com)
   - Search - [Web](https://www.findcaster.com)
 - [Web3.bio](https://web3.bio)
   - Profiles - [Web](https://web3.bio)
 - [Casterscan](https://casterscan.com/)
   - Inspired by block explorers - [Web](https://casterscan.com/)
-- [Tiles](https://tiles.cool)
-  - Inspired by VSCO - [Web](https://tiles.cool)
 - [Casthose](https://casthose.xyz)
   - See new casts in real time - [Web](https://casthose.xyz)
 - [Opencast](https://opencast.stephancill.co.za/)
@@ -78,24 +74,13 @@
 
 These bots are available on Farcaster. You can mention them in a cast to get a reply.
 
-- [@gpt](https://warpcast.com/gpt) - Mention "@gpt `Prompt`" to get a reply from ChatGPT.
-- [@event](https://warpcast.com/event) - Write a cast in the format "@event: `Title`, `Date + Time`, `Location`, `External Link (optional)`" to create an event on Eventcaster.
 - [@remindme](https://warpcast.com/remindme) - Reply to any cast with "@remindme `Number` `Day or Month or Year`" to be reminded in the future.
-- [@bot](https://warpcast.com/bot) - Mention "@bot `Prompt`" to get a reply from @bot, or cast "@bot faucet" to get goerli eth.
 - [@launch](https://warpcast.com/launch) - Reply to any cast with "@launch `Title (optional)`" to launch on Launchcaster.
 - [@perl](https://warpcast.com/perl) - Reply to any cast with "@perl `Category (optional)`" to save it as a Perl.
-- [@poll](https://warpcast.com/poll) - Reply to any cast that includes a poll with "@poll" to see the poll results as an image.
 - [@mintit](https://warpcast.com/mintit) - Reply to any cast with "@mintit" to mint the cast as an NFT.
-- [@essay](https://warpcast.com/essay) - Reply to any thread with "@essay" to get a screenshot essay generated.
 - [@alert](https://warpcast.com/alert) - Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
-- [@welcome](https://warpcast.com/welcome) - Welcomes new users to Farcaster.
-- [@ncbot](https://warpcast.com/ncbot) - Recasts the first 5 casts of new users for their first 3 days on Farcaster.
   - Open source at [kn/ncbot](https://github.com/kn/ncbot).
-- [@coffeebot](https://warpcast.com/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
-- [@year-progress](https://warpcast.com/year-progress) - Casts out the percentage of the year complete as a progress bar.
-- [@tip](https://warpcast.com/tip) - Reply to any cast with "@tip" and TipCast bot will reply with a link to tip the author.
 - [@survey](https://warpcast.com/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
-- [@ditti](https://warpcast.com/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
@@ -105,7 +90,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
 - [Farapps](https://farapps.farcase.xyz) - Showcase of apps.
   - Open source [here](https://github.com/farcase/farapps).
-- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
 - [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
 - [FarCon](https://farcon.xyz/) - FarCon is an unconference and experiential public good designed to support and proliferate the Farcaster ecosystem through physical connection.
@@ -192,6 +176,26 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
+
+### Depreciated, Unused, and Not Maintained
+- [Tiles](https://tiles.cool)
+  - Inspired by VSCO - [Web](https://tiles.cool)
+- [Caster News](https://casternews.xyz)
+  - Popular links, inspired by Hacker News - [Web](https://casternews.xyz)
+- [@Poll](https://warpcast.com/poll) - Reply to any cast that includes a poll with "@poll" to see the poll results as an image.
+- [@welcome](https://warpcast.com/welcome) - Welcomes new users to Farcaster.
+- [@ncbot](https://warpcast.com/ncbot) - Recasts the first 5 casts of new users for their first 3 days on Farcaster.
+- [@coffeebot](https://warpcast.com/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
+- [@year-progress](https://warpcast.com/year-progress) - Casts out the percentage of the year complete as a progress bar.
+- [@tip](https://warpcast.com/tip) - Reply to any cast with "@tip" and TipCast bot will reply with a link to tip the author.
+- [@ditti](https://warpcast.com/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
+- [@essay](https://warpcast.com/essay) - Reply to any thread with "@essay" to get a screenshot essay generated.
+- [@bot](https://warpcast.com/bot) - Mention "@bot `Prompt`" to get a reply from @bot, or cast "@bot faucet" to get goerli eth.
+- [@event](https://warpcast.com/event) - Write a cast in the format "@event: `Title`, `Date + Time`, `Location`, `External Link (optional)`" to create an event on Eventcaster.
+- [@gpt](https://warpcast.com/gpt) - Mention "@gpt `Prompt`" to get a reply from ChatGPT.
+
+### Moved or Deleted
+- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
 
 ## Contributions
 
