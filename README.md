@@ -10,7 +10,7 @@
   - [Web](https://www.supercast.xyz/)
 - [Phrasetown](https://phrasetown.com/)
   - [Web](https://phrasetown.com/)
-- [Yup](https://yup.io/)
+- [Yup](https://yup.io/), [iOS](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343), [Android](https://play.google.com/store/apps/details?id=io.yup.app)
   - [Web](https://app.yup.io/feed/farcaster)
 - [Flink](http://flink.fyi/)
   - [Web](http://flink.fyi/)
@@ -51,8 +51,6 @@
   - Profiles - [Web](https://web3.bio)
 - [Casterscan](https://casterscan.com/)
   - Inspired by block explorers - [Web](https://casterscan.com/)
-- [Tiles](https://tiles.cool)
-  - Inspired by VSCO - [Web](https://tiles.cool)
 - [Casthose](https://casthose.xyz)
   - See new casts in real time - [Web](https://casthose.xyz)
 - [Opencast](https://opencast.stephancill.co.za/)
@@ -74,6 +72,11 @@
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
 - [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
 
+## Frame Integrations
+- [Daylight](https://daylight.xyz/)
+- [Paragraph](https://paragraph.xyz/)
+- [Zora](https://zora.co/)
+
 ## Bots
 
 These bots are available on Farcaster. You can mention them in a cast to get a reply.
@@ -84,7 +87,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@bot](https://warpcast.com/bot) - Mention "@bot `Prompt`" to get a reply from @bot, or cast "@bot faucet" to get goerli eth.
 - [@launch](https://warpcast.com/launch) - Reply to any cast with "@launch `Title (optional)`" to launch on Launchcaster.
 - [@perl](https://warpcast.com/perl) - Reply to any cast with "@perl `Category (optional)`" to save it as a Perl.
-- [@poll](https://warpcast.com/poll) - Reply to any cast that includes a poll with "@poll" to see the poll results as an image.
 - [@mintit](https://warpcast.com/mintit) - Reply to any cast with "@mintit" to mint the cast as an NFT.
 - [@essay](https://warpcast.com/essay) - Reply to any thread with "@essay" to get a screenshot essay generated.
 - [@alert](https://warpcast.com/alert) - Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
@@ -105,7 +107,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
 - [Farapps](https://farapps.farcase.xyz) - Showcase of apps.
   - Open source [here](https://github.com/farcase/farapps).
-- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
+- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/apps) - Clients, tools, and other links.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
 - [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
 - [FarCon](https://farcon.xyz/) - FarCon is an unconference and experiential public good designed to support and proliferate the Farcaster ecosystem through physical connection.
@@ -114,7 +116,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Documentation
 
-- [Farcaster Development Examples](https://www.farcaster.xyz/developers/examples.html)
+- [Farcaster Specifications](https://github.com/farcasterxyz/protocol/blob/main/docs/SPECIFICATION.md)
 - [Hubble Documentation](https://www.thehubble.xyz)
   - Hubble is the first implementation of a Farcaster node.
 - [Warpcast API Documentation](http://api.warpcast.com/docs)
@@ -138,6 +140,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
 - [Wield Free Farcaster APIs & Hub](https://docs.wield.co/farcaster/api)
+- [Airstack Web3 API's](https://www.airstack.xyz/)
 
 ### Repos
 
