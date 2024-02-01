@@ -126,8 +126,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Composable Web3 APIs to fetch and combine Farcaster and other onchain & off-chain data, e.g. ENS, Base, Zora, XMTP, etc.
 - [Airstack Activate Kit For Farcaster Auth Kit](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/activate-kit-for-farcaster-auth-kit)
   - A series of API calls to activate Farcaster users after they connect with Farcaster Auth Kit
-- [Airstack Onchain Kit For Farcaster Frames](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/airstack-onchain-kit-for-farcaster-frames)
-  - Enrich Farcaster Frames with additional onchain data from Airstack APIs.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub-monorepo)
@@ -201,6 +199,11 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
+
+### Farcaster Frames
+
+- [Airstack Onchain Kit For Farcaster Frames](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/airstack-onchain-kit-for-farcaster-frames)
+  - Enrich Farcaster Frames with additional onchain data from Airstack APIs.
 
 ## Contributions
 
