@@ -124,6 +124,10 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Various APIs and services for Farcaster.
 - [Airstack API Documentaion](https://docs.airstack.xyz)
   - Composable Web3 APIs to fetch and combine Farcaster and other onchain & off-chain data, e.g. ENS, Base, Zora, XMTP, Lens, etc.
+- [Airstack Activate Kit For Farcaster Auth Kit](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/activate-kit-for-farcaster-auth-kit)
+  - A series of API calls to activate Farcaster users after they connect with Farcaster Auth Kit
+- [Airstack Onchain Kit For Farcaster Frames](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/airstack-onchain-kit-for-farcaster-frames)
+  - Enrich Farcaster Frames with additional onchain data from Airstack APIs.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub-monorepo)
