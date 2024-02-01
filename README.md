@@ -202,6 +202,9 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Farcaster Frames
 
+- [Farcaster Frame Tech Spec](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
+- [Farcaster Frame Text Input](https://warpcast.notion.site/Frames-Text-Input-Public-27c9f0d61903486d89b6d932dd0d6a22)
+- [Farcaster Frame Resources](https://warpcast.notion.site/Farcaster-Frames-Resources-175b151c98b54c32be4f83cb3417ac29)
 - [Airstack Onchain Kit For Farcaster Frames](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/airstack-onchain-kit-for-farcaster-frames)
   - Enrich Farcaster Frames with additional onchain data from Airstack APIs.
 
