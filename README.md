@@ -122,6 +122,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Warpcast's v2 API
 - [Neynar API Documentation](https://docs.neynar.com)
   - Various APIs and services for Farcaster.
+- [Airstack API Documentaion](https://docs.airstack.xyz)
+  - Composable Web3 APIs to fetch and combine Farcaster and other onchain & off-chain data, e.g. ENS, Base, Zora, XMTP, Lens, etc.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub-monorepo)
@@ -139,6 +141,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
 - [Wield Free Farcaster APIs & Hub](https://docs.wield.co/farcaster/api)
+- [Airstack API Studio](https://app.airstack.xyz)
+- [Airstack Explorer](https://explorer.airstack.xyz)
 
 ### Repos
 
