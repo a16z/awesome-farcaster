@@ -183,12 +183,9 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Analytics and Data
 
-- [Castalytics](https://castalytics.farcase.xyz) - User analytics.
 - [Farcaster User Stats](https://www.farcasteruserstats.com/) - User analytics. - [GitHub](https://github.com/mattwelter/farcaster-user-stats)
 - [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
 - [Farcaster Network](https://farcaster.network) - Network dashboard.
-- [Casterscan](https://casterscan.com) - A block explorer for Farcaster.
-  - Open source [here](https://github.com/dylsteck/casterscan).
 - [Goerli Subgraph](https://thegraph.com/hosted-service/subgraph/0xsarvesh/farcaster-goerli) - Farcaster data on Ethereum's Goerli testnet.
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
