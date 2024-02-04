@@ -8,8 +8,6 @@
   - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
 - [Supercast](https://www.supercast.xyz/)
   - [Web](https://www.supercast.xyz/)
-- [Phrasetown](https://phrasetown.com/)
-  - [Web](https://phrasetown.com/)
 - [Yup](https://yup.io/)
   - [Web](https://app.yup.io/feed/farcaster)
 - [Flink](http://flink.fyi/)
