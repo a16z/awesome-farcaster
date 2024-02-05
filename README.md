@@ -6,14 +6,10 @@
 
 - [Warpcast](https://warpcast.com/)
   - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
-- [Discove](https://discove.xyz)
-  - [Web](https://discove.xyz)
-- [Jam](https://jam.so/)
-  - [Web](https://jam.so/), [iOS](https://testflight.apple.com/join/cFmPd1r8), [Android](https://play.google.com/store/apps/details?id=xyz.purple)
+- [Supercast](https://www.supercast.xyz/)
+  - [Web](https://www.supercast.xyz/)
 - [Phrasetown](https://phrasetown.com/)
   - [Web](https://phrasetown.com/)
-- [Omilos](https://omilos.xyz)
-  - [Web](https://omilos.xyz)
 - [Yup](https://yup.io/)
   - [Web](https://app.yup.io/feed/farcaster)
 - [Flink](http://flink.fyi/)
@@ -25,6 +21,8 @@
 
 - [Searchcaster](https://searchcaster.xyz/)
   - Search - [Web](https://searchcaster.xyz/)
+- [Crew](https://www.hifromcrew.com/join)
+  - Team/multiple accounts - [Web](https://www.hifromcrew.com/join)
 - [Alertcaster](https://alertcaster.xyz)
   - Alerts - [Web](https://alertcaster.xyz)
 - [Launchcaster](https://launchcaster.xyz)
@@ -69,10 +67,12 @@
 ## Tools
 
 - [CastStorage](https://caststorage.com/) - Check your Farcaster storage usage.
+- [fcstr](https://feeds.fcstr.xyz/) - Make user and channel RSS, Atom, and JSON feeds.
 - [Sharecaster](https://sharecaster.xyz/) - Make preview-friendly links to casts.
-- [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search
-- [CastRSS](https://castrss.xyz) - Make user-specific RSS feeds.
+- [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search.
+- [CastRSS](https://castrss.xyz) - Make user RSS feeds.
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
+- [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
 
 ## Bots
 
@@ -99,6 +99,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
+- [@karmabot](https://warpcast.com/karmabot) - Endorse any farcaster user by casting and tagging @karmabot. An [onchain attestation](https://warpcast.com/karmabot/0x1c9bde39) will be created on Base Network.
 - [@doxxbot](https://warpcast.com/doxxbot) - Cast "@doxxbot `farcaster_username`" or reply to any cast with "@doxxbot" to get a reply with the Farcaster user's other social hangouts and top 10 ERC-20 stash.
   - Open source at [eshaan7/doxxcaster](https://github.com/eshaan7/doxxcaster).
 
@@ -177,6 +178,10 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - An open source NodeJS bot designed to post engaging surveys directly on Farcaster.
 - [mod-protocol/mod](https://github.com/mod-protocol/mod)
   - An open source Editor for creating casts, rendering rich embeds and a protocol for Farcaster Mini-apps.
+- [pugson/react-farcaster-embed](https://github.com/pugson/react-farcaster-embed)
+  - Component for displaying an embedded cast from Farcaster in your React app.
+- [Farcaster Solidity](https://github.com/pavlovdog/farcaster-solidity/)
+  - A set of Solidity libraries for working with Farcaster messages.
 
 ### Analytics and Data
 
