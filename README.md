@@ -41,17 +41,13 @@
   - Video - [Web](https://www.getabsorb.com)
 - [Kiwi News](https://news.kiwistand.com/)
   - Community-curated links - [Web](https://news.kiwistand.com/)
-- [Caster News](https://casternews.xyz)
-  - Popular links, inspired by Hacker News - [Web](https://casternews.xyz)
 - [Findcaster](https://www.findcaster.com)
   - Search - [Web](https://www.findcaster.com)
 - [Web3.bio](https://web3.bio)
   - Profiles - [Web](https://web3.bio)
 - [Casterscan](https://casterscan.com/)
   - Inspired by block explorers - [Web](https://casterscan.com/)
-- [Tiles](https://tiles.cool)
-  - Inspired by VSCO - [Web](https://tiles.cool)
-- [🟣 Purp.game](https://purp.game/)
+- [Purp](https://purp.game/)
   - Peer to peer creator rewards - [Web](https://purp.game/)
 - [Casthose](https://casthose.xyz)
   - See new casts in real time - [Web](https://casthose.xyz)
@@ -88,27 +84,16 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@mintit](https://warpcast.com/mintit) - Reply to any cast with "@mintit" to mint the cast as an NFT.
 - [@essay](https://warpcast.com/essay) - Reply to any thread with "@essay" to get a screenshot essay generated.
 - [@alert](https://warpcast.com/alert) - Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
-- [@welcome](https://warpcast.com/welcome) - Welcomes new users to Farcaster.
-- [@ncbot](https://warpcast.com/ncbot) - Recasts the first 5 casts of new users for their first 3 days on Farcaster.
-  - Open source at [kn/ncbot](https://github.com/kn/ncbot).
-- [@coffeebot](https://warpcast.com/coffeebot) - Each week Coffeebot randomly pairs casters together for a "coffee" chat.
-- [@year-progress](https://warpcast.com/year-progress) - Casts out the percentage of the year complete as a progress bar.
-- [@tip](https://warpcast.com/tip) - Reply to any cast with "@tip" and TipCast bot will reply with a link to tip the author.
 - [@survey](https://warpcast.com/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
 - [@ditti](https://warpcast.com/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
-- [@karmabot](https://warpcast.com/karmabot) - Endorse any farcaster user by casting and tagging @karmabot. An [onchain attestation](https://warpcast.com/karmabot/0x1c9bde39) will be created on Base Network.
-- [@doxxbot](https://warpcast.com/doxxbot) - Cast "@doxxbot `farcaster_username`" or reply to any cast with "@doxxbot" to get a reply with the Farcaster user's other social hangouts and top 10 ERC-20 stash.
-  - Open source at [eshaan7/doxxcaster](https://github.com/eshaan7/doxxcaster).
 
 ### Community
 
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
-- [Farapps](https://farapps.farcase.xyz) - Showcase of apps.
-  - Open source [here](https://github.com/farcase/farapps).
-- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/ecosystem) - Clients, tools, and other links.
+- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/apps) - Clients, tools, and other links.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
 - [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
 - [FarCon](https://farcon.xyz/) - FarCon is an unconference and experiential public good designed to support and proliferate the Farcaster ecosystem through physical connection.
@@ -117,7 +102,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Documentation
 
-- [Farcaster Development Examples](https://www.farcaster.xyz/developers/examples.html)
+- [Farcaster Development Examples](https://www.farcaster.xyz/devs)
 - [Hubble Documentation](https://www.thehubble.xyz)
   - Hubble is the first implementation of a Farcaster node.
 - [Warpcast API Documentation](http://api.warpcast.com/docs)
