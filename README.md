@@ -100,6 +100,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
 - [@karmabot](https://warpcast.com/karmabot) - Endorse any farcaster user by casting and tagging @karmabot. An [onchain attestation](https://warpcast.com/karmabot/0x1c9bde39) will be created on Base Network.
+- [@doxxbot](https://warpcast.com/doxxbot) - Cast "@doxxbot `farcaster_username`" or reply to any cast with "@doxxbot" to get a reply with the Farcaster user's other social hangouts and top 10 ERC-20 stash.
+  - Open source at [eshaan7/doxxcaster](https://github.com/eshaan7/doxxcaster).
 
 ### Community
 
