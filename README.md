@@ -14,6 +14,8 @@
   - [Web](http://flink.fyi/)
 - [FarQuest](https://far.quest)
   - [Web](https://far.quest)
+- [Litecast](https://github.com/dylsteck/litecast)
+  - [iOS (Testflight)](https://testflight.apple.com/join/qVTQkztU)
 
 ### Specialized
 
