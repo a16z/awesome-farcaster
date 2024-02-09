@@ -8,8 +8,6 @@
   - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
 - [Supercast](https://www.supercast.xyz/)
   - [Web](https://www.supercast.xyz/)
-- [Phrasetown](https://phrasetown.com/)
-  - [Web](https://phrasetown.com/)
 - [Yup](https://yup.io/)
   - [Web](https://app.yup.io/feed/farcaster)
 - [Flink](http://flink.fyi/)
@@ -49,6 +47,8 @@
   - Profiles - [Web](https://web3.bio)
 - [Casterscan](https://casterscan.com/)
   - Inspired by block explorers - [Web](https://casterscan.com/)
+- [Purp](https://purp.game/)
+  - Peer to peer creator rewards - [Web](https://purp.game/)
 - [Casthose](https://casthose.xyz)
   - See new casts in real time - [Web](https://casthose.xyz)
 - [Opencast](https://opencast.stephancill.co.za/)
@@ -70,19 +70,6 @@
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
 - [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
 
-## Frames
-
-- [Frames Documentation](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5) - Core documentation on what Frames are and how to make them
-- [Airstack Onchain Kit for Frames](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/airstack-onchain-kit-for-farcaster-frames) - Documentation on how to use Airstack to get farcaster user data using Frames
-- [Frames Channel](https://warpcast.com/~/channel/frames) - Frames channel for all conversation frame related
-- [FC Polls Frame](https://github.com/farcasterxyz/fc-polls) - Farcaster Polls Frame example
-- [Zora Free Mint Frame](https://github.com/lottopgf/zora-mint-frame) - Open source frame example of a zora free mint
-- [Frame in 100 Lines](https://github.com/Zizzamia/a-frame-in-100-lines) - Simple open source template for creating an image gallery frame
-
-
-
-
-
 ## Bots
 
 These bots are available on Farcaster. You can mention them in a cast to get a reply.
@@ -97,7 +84,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@mintit](https://warpcast.com/mintit) - Reply to any cast with "@mintit" to mint the cast as an NFT.
 - [@essay](https://warpcast.com/essay) - Reply to any thread with "@essay" to get a screenshot essay generated.
 - [@alert](https://warpcast.com/alert) - Set up an alert on Alertcaster and alert bot will mention you as a reply to casts matching the alert.
-  - Open source at [kn/ncbot](https://github.com/kn/ncbot).
 - [@survey](https://warpcast.com/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
 - [@ditti](https://warpcast.com/ditti) - A bot with multiple commands that mimicks the style of command line interface packages. Cast "@ditti help" for more information.
   - Open source at [alexpaden/ditti-bot](https://github.com/alexpaden/ditti-bot).
@@ -123,6 +109,10 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Warpcast's v2 API
 - [Neynar API Documentation](https://docs.neynar.com)
   - Various APIs and services for Farcaster.
+- [Airstack API Documentaion](https://docs.airstack.xyz)
+  - Composable Web3 APIs to fetch and combine Farcaster and other onchain & off-chain data, e.g. ENS, Base, Zora, XMTP, etc.
+- [Airstack Activate Kit For Farcaster Auth Kit](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/activate-kit-for-farcaster-auth-kit)
+  - A series of API calls to activate Farcaster users after they connect with Farcaster Auth Kit
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub-monorepo)
@@ -140,6 +130,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
 - [Wield Free Farcaster APIs & Hub](https://docs.wield.co/farcaster/api)
+- [Airstack API Studio](https://app.airstack.xyz)
+- [Airstack Explorer](https://explorer.airstack.xyz)
 
 ### Repos
 
@@ -193,6 +185,14 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
+
+### Farcaster Frames
+
+- [Farcaster Frame Tech Spec](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
+- [Farcaster Frame Text Input](https://warpcast.notion.site/Frames-Text-Input-Public-27c9f0d61903486d89b6d932dd0d6a22)
+- [Farcaster Frame Resources](https://warpcast.notion.site/Farcaster-Frames-Resources-175b151c98b54c32be4f83cb3417ac29)
+- [Airstack Onchain Kit For Farcaster Frames](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/airstack-onchain-kit-for-farcaster-frames)
+  - Enrich Farcaster Frames with additional onchain data from Airstack APIs.
 
 ## Contributions
 
