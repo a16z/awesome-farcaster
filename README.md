@@ -8,8 +8,6 @@
   - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
 - [Supercast](https://www.supercast.xyz/)
   - [Web](https://www.supercast.xyz/)
-- [Phrasetown](https://phrasetown.com/)
-  - [Web](https://phrasetown.com/)
 - [Yup](https://yup.io/), [iOS](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343), [Android](https://play.google.com/store/apps/details?id=io.yup.app)
   - [Web](https://app.yup.io/feed/farcaster)
 - [Flink](http://flink.fyi/)
@@ -51,6 +49,10 @@
   - Profiles - [Web](https://web3.bio)
 - [Casterscan](https://casterscan.com/)
   - Inspired by block explorers - [Web](https://casterscan.com/)
+- [Tiles](https://tiles.cool)
+  - Inspired by VSCO - [Web](https://tiles.cool)
+- [🟣 Purp.game](https://purp.game/)
+  - Peer to peer creator rewards - [Web](https://purp.game/)
 - [Casthose](https://casthose.xyz)
   - See new casts in real time - [Web](https://casthose.xyz)
 - [Opencast](https://opencast.stephancill.co.za/)
@@ -123,6 +125,10 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Warpcast's v2 API
 - [Neynar API Documentation](https://docs.neynar.com)
   - Various APIs and services for Farcaster.
+- [Airstack API Documentaion](https://docs.airstack.xyz)
+  - Composable Web3 APIs to fetch and combine Farcaster and other onchain & off-chain data, e.g. ENS, Base, Zora, XMTP, etc.
+- [Airstack Activate Kit For Farcaster Auth Kit](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/activate-kit-for-farcaster-auth-kit)
+  - A series of API calls to activate Farcaster users after they connect with Farcaster Auth Kit
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub-monorepo)
@@ -140,7 +146,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
 - [Wield Free Farcaster APIs & Hub](https://docs.wield.co/farcaster/api)
-- [Airstack Web3 API's](https://www.airstack.xyz/)
+- [Airstack API Studio](https://app.airstack.xyz)
+- [Airstack Explorer](https://explorer.airstack.xyz)
 
 ### Repos
 
@@ -185,7 +192,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Analytics and Data
 
-- [Castalytics](https://castalytics.farcase.xyz) - User analytics.
 - [Farcaster User Stats](https://www.farcasteruserstats.com/) - User analytics. - [GitHub](https://github.com/mattwelter/farcaster-user-stats)
 - [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
 - [Farcaster Network](https://farcaster.network) - Network dashboard.
@@ -195,6 +201,14 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
+
+### Farcaster Frames
+
+- [Farcaster Frame Tech Spec](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
+- [Farcaster Frame Text Input](https://warpcast.notion.site/Frames-Text-Input-Public-27c9f0d61903486d89b6d932dd0d6a22)
+- [Farcaster Frame Resources](https://warpcast.notion.site/Farcaster-Frames-Resources-175b151c98b54c32be4f83cb3417ac29)
+- [Airstack Onchain Kit For Farcaster Frames](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/airstack-onchain-kit-for-farcaster-frames)
+  - Enrich Farcaster Frames with additional onchain data from Airstack APIs.
 
 ## Contributions
 
