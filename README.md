@@ -120,6 +120,10 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Warpcast's v2 API
 - [Neynar API Documentation](https://docs.neynar.com)
   - Various APIs and services for Farcaster.
+- [Airstack API Documentaion](https://docs.airstack.xyz)
+  - Composable Web3 APIs to fetch and combine Farcaster and other onchain & off-chain data, e.g. ENS, Base, Zora, XMTP, etc.
+- [Airstack Activate Kit For Farcaster Auth Kit](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/activate-kit-for-farcaster-auth-kit)
+  - A series of API calls to activate Farcaster users after they connect with Farcaster Auth Kit
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol)
   - Farcaster protocol specification.
 - [farcasterxyz/hub](https://github.com/farcasterxyz/hub-monorepo)
@@ -137,6 +141,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
 - [Wield Free Farcaster APIs & Hub](https://docs.wield.co/farcaster/api)
+- [Airstack API Studio](https://app.airstack.xyz)
+- [Airstack Explorer](https://explorer.airstack.xyz)
 
 ### Repos
 
@@ -190,6 +196,14 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
+
+### Farcaster Frames
+
+- [Farcaster Frame Tech Spec](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
+- [Farcaster Frame Text Input](https://warpcast.notion.site/Frames-Text-Input-Public-27c9f0d61903486d89b6d932dd0d6a22)
+- [Farcaster Frame Resources](https://warpcast.notion.site/Farcaster-Frames-Resources-175b151c98b54c32be4f83cb3417ac29)
+- [Airstack Onchain Kit For Farcaster Frames](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/airstack-onchain-kit-for-farcaster-frames)
+  - Enrich Farcaster Frames with additional onchain data from Airstack APIs.
 
 ## Contributions
 
