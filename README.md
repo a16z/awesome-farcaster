@@ -177,6 +177,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
+- [🔥 Farcaster Hot 100 🔥](https://fc.hot100.xyz/) - Trending accounts
 
 ### Farcaster Frames
 
