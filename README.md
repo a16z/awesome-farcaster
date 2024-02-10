@@ -58,7 +58,7 @@
 - [33bits](https://33bits.xyz)
   - Cast anonymously on Farcaster through Zero-Knowledge proofs - [Web](https://33bits.xyz)
 - [Magi](https://magi.lol/)
-  - Meme search engine for Farcaster - [Web](https://magi.lol/)  
+  - Meme search engine for Farcaster - [Web](https://magi.lol/)
 
 ## Tools
 
@@ -168,7 +168,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Solidity](https://github.com/pavlovdog/farcaster-solidity/)
   - A set of Solidity libraries for working with Farcaster messages.
 - [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
-  - CLI / Script for scrapping content with interactive filtering & targeted searches
+  - CLI tool and script for scraping Farcaster content via Neynar.
 
 ### Analytics and Data
 
