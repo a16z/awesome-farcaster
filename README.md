@@ -57,6 +57,8 @@
   - Create and complete bounties on Farcaster - [Web](https://www.bountycaster.xyz)
 - [33bits](https://33bits.xyz)
   - Cast anonymously on Farcaster through Zero-Knowledge proofs - [Web](https://33bits.xyz)
+- [Magi](https://magi.lol/)
+  - Meme search engine for Farcaster - [Web](https://magi.lol/)
 
 ## Tools
 
@@ -165,6 +167,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Component for displaying an embedded cast from Farcaster in your React app.
 - [Farcaster Solidity](https://github.com/pavlovdog/farcaster-solidity/)
   - A set of Solidity libraries for working with Farcaster messages.
+- [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
+  - CLI tool and script for scraping Farcaster content via Neynar.
 
 ### Analytics and Data
 
