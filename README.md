@@ -124,6 +124,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Wield Free Farcaster APIs & Hub](https://docs.wield.co/farcaster/api)
 - [Airstack API Studio](https://app.airstack.xyz)
 - [Airstack Explorer](https://explorer.airstack.xyz)
+- [Free Farcaster Hub](https://freefarcasterhub.com/)
+- [Far Quest Free Developer Hub](https://docs.far.quest/docs/getting-started)
 
 ### Repos
 
