@@ -198,6 +198,7 @@ Frames are how you can make posts interactive on Farcaster.
   - Template for Frames that mint NFTs.
 - [ncitron.eth's oframl](https://github.com/ncitron/oframl)
   - Framework for building Frames with OCaml.
+- [TopFrames.xyz - Curated directory of novel Frames](https://topframes.xyz)
 
 ## Contributions
 
