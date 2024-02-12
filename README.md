@@ -12,7 +12,7 @@
   - [Web](https://app.yup.io/feed/farcaster), [iOS](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343), [Android](https://play.google.com/store/apps/details?id=io.yup.app)
 - [Flink](http://flink.fyi/)
   - [Web](http://flink.fyi/)
-- [FarQuest](https://far.quest)
+- [far.quest](https://far.quest)
   - [Web](https://far.quest)
 - [Litecast](https://github.com/dylsteck/litecast)
   - [iOS (Testflight)](https://testflight.apple.com/join/qVTQkztU)
@@ -113,7 +113,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
 - [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
   - The Phrasetown client has its own useful API.
-- [Wield Farcaster API Docs](https://docs.wield.co/farcaster/api)
+- [far.quest Farcaster API Docs](https://docs.far.quest)
   - Free & open source APIs for Farcaster.
 - [Farcaster Kit Docs](https://farcasterkit.com/docs)
   - Free React hooks and API for Farcaster apps.
@@ -121,7 +121,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 ### Services
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
-- [Wield Free Farcaster APIs & Hub](https://docs.wield.co/farcaster/api)
+- [far.quest Free Farcaster APIs & Hub](https://docs.far.quest)
 - [Airstack API Studio](https://app.airstack.xyz)
 - [Airstack Explorer](https://explorer.airstack.xyz)
 
