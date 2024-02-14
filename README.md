@@ -113,15 +113,15 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
 - [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
   - The Phrasetown client has its own useful API.
-- [far.quest Farcaster API Docs](https://docs.far.quest)
-  - Free & open source APIs for Farcaster.
+- [far.quest Free Farcaster API Docs](https://docs.far.quest)
+  - Free & open-source APIs for Farcaster.
 - [Farcaster Kit Docs](https://farcasterkit.com/docs)
   - Free React hooks and API for Farcaster apps.
 
 ### Services
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
-- [far.quest Free Farcaster APIs & Hub](https://docs.far.quest)
+- [far.quest Free & Open-Source Farcaster APIs](https://docs.far.quest)
 - [Airstack API Studio](https://app.airstack.xyz)
 - [Airstack Explorer](https://explorer.airstack.xyz)
 
