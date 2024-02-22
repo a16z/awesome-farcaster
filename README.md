@@ -82,6 +82,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@survey](https://warpcast.com/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
+- [@memebook](https://warpcast.com/memebook) - Reply to memes with "@memebook" to save them on your personal space, accessible with your Farcaster account on [Magi](https://magi.lol/).
 
 ### Community
 
