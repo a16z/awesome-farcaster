@@ -59,6 +59,8 @@
   - Cast anonymously on Farcaster through Zero-Knowledge proofs - [Web](https://33bits.xyz)
 - [Magi](https://magi.lol/)
   - Meme search engine for Farcaster - [Web](https://magi.lol/)
+- [CasterBites](https://casterbites.com/)
+  - Personalised daily digest of Farcaster with highlights, user stats and more - [Web](https://casterbites.com)
 
 ## Tools
 
