@@ -16,6 +16,8 @@
   - [Web](https://far.quest)
 - [Litecast](https://github.com/dylsteck/litecast)
   - [iOS (Testflight)](https://testflight.apple.com/join/qVTQkztU)
+- [U3](https://u3.xyz)
+  - [Web/PWA](https://u3.xyz)
 
 ### Specialized
 
