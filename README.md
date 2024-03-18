@@ -169,6 +169,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - A set of Solidity libraries for working with Farcaster messages.
 - [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
   - CLI tool and script for scraping Farcaster content via Neynar.
+- [xmtp-quickstart-chat-frames](https://github.com/xmtp/xmtp-quickstart-chat-frames)
+  - Render Frames in XMTP inboxes
 
 ### Analytics and Data
 
@@ -198,6 +200,10 @@ Frames are how you can make posts interactive on Farcaster.
   - Template for Frames that mint NFTs.
 - [ncitron.eth's oframl](https://github.com/ncitron/oframl)
   - Framework for building Frames with OCaml.
+- [open-frames/standard](https://github.com/open-frames/standard)
+  - Open Frames standard
+- [Chat Frames](https://xmtp.org/docs/build/frames)
+  - Send Farcaster Frames via DMs
 
 ## Contributions
 
