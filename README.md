@@ -135,6 +135,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - General-purpose Rust interface.
 - [ertan/go-farcaster](https://github.com/ertan/go-farcaster)
   - General-purpose Go interface.
+- [frog]([https://github.com/wevm](https://github.com/wevm/frog)
+  - Framework and DevTools for Farcaster Frames
 - [framesjs](https://github.com/framesjs/frames.js)
   - Farcaster Frames in JavaScript.
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
