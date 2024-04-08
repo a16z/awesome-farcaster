@@ -86,6 +86,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
 - [@vocdoni](https://warpcast.com/vocdoni) - Write mention to @vocdoni with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/at79w/0x303fe2f8).
+- [@translate](https://warpcast.com/translate) - Reply to any cast with "@translate `Language`" to get the translated text.
 
 ### Community
 
