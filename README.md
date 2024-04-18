@@ -16,6 +16,8 @@
   - [Web](https://far.quest)
 - [Litecast](https://github.com/dylsteck/litecast)
   - [iOS (Testflight)](https://testflight.apple.com/join/qVTQkztU)
+- [U3](https://u3.xyz)
+  - [Web/PWA](https://u3.xyz)
 
 ### Specialized
 
@@ -59,6 +61,8 @@
   - Cast anonymously on Farcaster through Zero-Knowledge proofs - [Web](https://33bits.xyz)
 - [Magi](https://magi.lol/)
   - Meme search engine for Farcaster - [Web](https://magi.lol/)
+- [CasterBites](https://casterbites.com/)
+  - Personalised daily digest of Farcaster with highlights, user stats and more - [Web](https://casterbites.com)
 
 ## Tools
 
@@ -69,6 +73,7 @@
 - [CastRSS](https://castrss.xyz) - Make user RSS feeds.
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
 - [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
+- [Farcaster.vote](https://farcaster.vote/app) - Verifiable & decentralized polls within Farcaster Frames.
 
 ## Bots
 
@@ -82,11 +87,15 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@survey](https://warpcast.com/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
+- [@translate](https://warpcast.com/translate) - Reply to any cast with "@translate `Language`" to get the translated text.
+- [@ballot](https://warpcast.com/ballot) - Write mention to @ballot with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/ballot/0xeb1a95bb).
+- [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
 
 ### Community
 
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
 - [Warpcast's Ecosystem Page](https://www.farcaster.xyz/apps) - Clients, tools, and other links.
+- [Decaster](https://decaster.xyz) - Curated farcaster ecosystem page.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
 - [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
 - [FarCon](https://farcon.xyz/) - FarCon is an unconference and experiential public good designed to support and proliferate the Farcaster ecosystem through physical connection.
@@ -113,15 +122,15 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
 - [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
   - The Phrasetown client has its own useful API.
-- [far.quest Farcaster API Docs](https://docs.far.quest)
-  - Free & open source APIs for Farcaster.
+- [far.quest Free Farcaster API Docs](https://docs.far.quest)
+  - Free & open-source APIs for Farcaster.
 - [Farcaster Kit Docs](https://farcasterkit.com/docs)
   - Free React hooks and API for Farcaster apps.
 
 ### Services
 
 - [Neynar Hosted Hubs](https://hubs.neynar.com)
-- [far.quest Free Farcaster APIs & Hub](https://docs.far.quest)
+- [far.quest Free & Open-Source Farcaster APIs](https://docs.far.quest)
 - [Airstack API Studio](https://app.airstack.xyz)
 - [Airstack Explorer](https://explorer.airstack.xyz)
 
@@ -135,6 +144,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - General-purpose Rust interface.
 - [ertan/go-farcaster](https://github.com/ertan/go-farcaster)
   - General-purpose Go interface.
+- [frog](https://github.com/wevm/frog)
+  - Framework and DevTools for Farcaster Frames
 - [framesjs](https://github.com/framesjs/frames.js)
   - Farcaster Frames in JavaScript.
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
@@ -181,7 +192,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
-- [🔥 Farcaster Hot 100 🔥](https://fc.hot100.xyz/) - Trending accounts
+- [Farcaster Hot 100](https://fc.hot100.xyz/) - Trending accounts
+- [Neynar frame analytics](https://docs.neynar.com/reference/validate-frame-analytics) - Get analytics for your frame
 
 ### Farcaster Frames
 
@@ -200,6 +212,7 @@ Frames are how you can make posts interactive on Farcaster.
   - Framework for building Frames with OCaml.
 - [topframes.xyz](https://app.topframes.xyz)
   - Curated directory of novel Frames.
+- [Neynar hosted frames](https://docs.neynar.com/reference/publish-neynar-frame)
 
 ## Contributions
 
