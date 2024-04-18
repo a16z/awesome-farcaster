@@ -85,7 +85,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@survey](https://warpcast.com/survey) - Reply to any cast with "@survey" to bookmark it as a potential [Ponder](https://www.weponder.io) survey.
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
-- [@vocdoni](https://warpcast.com/vocdoni) - Write mention to @vocdoni with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/at79w/0x303fe2f8).
+- [@ballot](https://warpcast.com/ballot) - Write mention to @ballot with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/ballot/0xeb1a95bb).
 - [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
 
 ### Community
