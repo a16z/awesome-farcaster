@@ -86,6 +86,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
 - [@vocdoni](https://warpcast.com/vocdoni) - Write mention to @vocdoni with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/at79w/0x303fe2f8).
+- [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
 
 ### Community
 
@@ -139,7 +140,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - General-purpose Rust interface.
 - [ertan/go-farcaster](https://github.com/ertan/go-farcaster)
   - General-purpose Go interface.
-- [frog]([https://github.com/wevm](https://github.com/wevm/frog)
+- [frog](https://github.com/wevm/frog)
   - Framework and DevTools for Farcaster Frames
 - [framesjs](https://github.com/framesjs/frames.js)
   - Farcaster Frames in JavaScript.
