@@ -92,6 +92,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
 - [Warpcast's Ecosystem Page](https://www.farcaster.xyz/apps) - Clients, tools, and other links.
+- [Decaster](https://decaster.xyz) - Curated farcaster ecosystem page.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
 - [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
 - [FarCon](https://farcon.xyz/) - FarCon is an unconference and experiential public good designed to support and proliferate the Farcaster ecosystem through physical connection.
