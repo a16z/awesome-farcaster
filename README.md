@@ -86,6 +86,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@paragraph](https://warpcast.com/paragraph) - Summarizes and casts about articles published on [Paragraph](https://paragraph.xyz).
 - [@bountybot](https://warpcast.com/bountybot) - Mention @bountybot and include bounty `Description`, `Amount`, `Deadline (optional)` to create a bounty.
 - [@ballot](https://warpcast.com/ballot) - Write mention to @ballot with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/ballot/0xeb1a95bb).
+- [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
 
 ### Community
 
@@ -139,7 +140,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - General-purpose Rust interface.
 - [ertan/go-farcaster](https://github.com/ertan/go-farcaster)
   - General-purpose Go interface.
-- [frog]([https://github.com/wevm](https://github.com/wevm/frog)
+- [frog](https://github.com/wevm/frog)
   - Framework and DevTools for Farcaster Frames
 - [framesjs](https://github.com/framesjs/frames.js)
   - Farcaster Frames in JavaScript.
@@ -188,6 +189,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
 - [🔥 Farcaster Hot 100 🔥](https://fc.hot100.xyz/) - Trending accounts
+- [Neynar frame analytics](https://docs.neynar.com/reference/validate-frame-analytics) - Get analytics for your frame
 
 ### Farcaster Frames
 
@@ -204,6 +206,7 @@ Frames are how you can make posts interactive on Farcaster.
   - Template for Frames that mint NFTs.
 - [ncitron.eth's oframl](https://github.com/ncitron/oframl)
   - Framework for building Frames with OCaml.
+- [Neynar hosted frames](https://docs.neynar.com/reference/publish-neynar-frame)
 
 ## Contributions
 
