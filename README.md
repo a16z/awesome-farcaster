@@ -18,6 +18,8 @@
   - [iOS (Testflight)](https://testflight.apple.com/join/qVTQkztU)
 - [U3](https://u3.xyz)
   - [Web/PWA](https://u3.xyz)
+- [herocast](https://herocast.xyz)
+  - [Web](https://herocast.xyz)
 
 ### Specialized
 
