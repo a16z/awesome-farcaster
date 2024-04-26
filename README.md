@@ -21,6 +21,8 @@
 
 ### Specialized
 
+- [Buoy](https://buoy.club)
+  - Search & Alerts [iOS](https://buoy.club), [Android](https://buoy.club) 
 - [Searchcaster](https://searchcaster.xyz/)
   - Search - [Web](https://searchcaster.xyz/)
 - [Crew](https://www.hifromcrew.com/join)
