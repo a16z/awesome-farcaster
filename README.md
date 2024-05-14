@@ -128,6 +128,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - The Phrasetown client has its own useful API.
 - [far.quest Free Farcaster API Docs](https://docs.far.quest)
   - Free & open-source APIs for Farcaster.
+- [Dynamic's Sign In With Farcaster SDK](https://docs.dynamic.xyz/guides/integrations/sign-in-with-farcaster)
+  - Library for SIWF including making embedded wallets, casting, and more.
 - [Farcaster Kit Docs](https://farcasterkit.com/docs)
   - Free React hooks and API for Farcaster apps.
 
