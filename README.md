@@ -10,8 +10,10 @@
   - [Web](https://www.supercast.xyz/)
 - [Yup](https://yup.io/)
   - [Web](https://app.yup.io/feed/farcaster), [iOS](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343), [Android](https://play.google.com/store/apps/details?id=io.yup.app)
-- [Flink](http://flink.fyi/)
-  - [Web](http://flink.fyi/)
+- [Nook](https://nook.social/)
+  - [Web](https://nook.social/), iOS coming soon
+- [Recaster](https://dub.sh/recaster)
+  - [iOS](https://dub.sh/recaster)
 - [far.quest](https://far.quest)
   - [Web](https://far.quest)
 - [Litecast](https://github.com/dylsteck/litecast)
@@ -24,7 +26,7 @@
 ### Specialized
 
 - [Buoy](https://buoy.club)
-  - Search & Alerts [iOS](https://buoy.club), [Android](https://buoy.club) 
+  - Search & Alerts [iOS](https://buoy.club), [Android](https://buoy.club)
 - [Searchcaster](https://searchcaster.xyz/)
   - Search - [Web](https://searchcaster.xyz/)
 - [Crew](https://www.hifromcrew.com/join)
