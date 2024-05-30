@@ -80,6 +80,7 @@
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
 - [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
 - [Farcaster.vote](https://farcaster.vote/app) - Verifiable & decentralized polls within Farcaster Frames.
+- [Composecastxyz](https://github.com/0xSemicolon/composecastxyz) - Privacy preserving, MIT licensed compose cast gateway
 
 ## Bots
 
