@@ -190,6 +190,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - A set of Solidity libraries for working with Farcaster messages.
 - [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
   - CLI tool and script for scraping Farcaster content via Neynar.
+- [ysalitrynskyi/warpcast-blocker-chrome](https://github.com/ysalitrynskyi/warpcast-blocker-chrome)
+  - Google Chrome plugin to hide all casts with frames in the feed.
 
 ### Analytics and Data
 
