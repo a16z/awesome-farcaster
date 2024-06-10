@@ -59,6 +59,8 @@
   - Inspired by block explorers - [Web](https://casterscan.com/)
 - [Opencast](https://opencast.stephancill.co.za/)
   - A fully open source Twitter flavoured Farcaster client - [Web](https://opencast.stephancill.co.za/) [GitHub](https://github.com/stephancill/opencast)
+- [tofui](https://github.com/treethought/tofui)
+  - A farcaster terminal user interface (TUI) - [GitHub](https://github.com/treethought/tofui)
 - [Ponder](https://www.weponder.io)
   - Revealing the thoughts of Farcaster through public surveys - [Web](https://www.weponder.io)
 - [Bountycaster](https://www.bountycaster.xyz/)
