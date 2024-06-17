@@ -41,6 +41,8 @@
   - Anonymous casting through cryptography - [Web](https://sealcaster.xyz)
 - [Alphacaster](https://alphacaster.xyz)
   - DAO-focused - [Web](https://alphacaster.xyz)
+- [Sonata](https://sonata.tips)
+  - Music Discovery - [Web](https://sonata.tips)
 - [Eventcaster](https://eventcaster.xyz)
   - Meetups & Events - [Web](https://eventcaster.xyz)
 - [TipCast](https://tipcast.xyz)
