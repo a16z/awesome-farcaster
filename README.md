@@ -43,8 +43,6 @@
   - DAO-focused - [Web](https://alphacaster.xyz)
 - [Eventcaster](https://eventcaster.xyz)
   - Meetups & Events - [Web](https://eventcaster.xyz)
-- [TipCast](https://tipcast.xyz)
-  - Tip Casters via Polygon - [Web](https://tipcast.xyz)
 - [SayMore](https://saymore.tv/)
   - Creator Requests - [Web](https://saymore.tv/)
 - [Absorb](https://www.getabsorb.com)
