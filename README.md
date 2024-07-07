@@ -67,6 +67,8 @@
   - Meme search engine for Farcaster - [Web](https://magi.lol/)
 - [CasterBites](https://casterbites.com/)
   - Personalised daily digest of Farcaster with highlights, user stats and more - [Web](https://casterbites.com)
+- [Terminal](https://www.farterminal.io/)
+  - A brand new way to launch channel tokens - [Web](https://www.farterminal.io/)
 
 ## Tools
 
