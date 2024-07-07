@@ -78,7 +78,6 @@
 - [fcstr](https://feeds.fcstr.xyz/) - Make user and channel RSS, Atom, and JSON feeds.
 - [Sharecaster](https://sharecaster.xyz/) - Make preview-friendly links to casts.
 - [Searchcaster](https://raycast.com/gregskril/searchcaster) - Raycast extension for search.
-- [CastRSS](https://castrss.xyz) - Make user RSS feeds.
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
 - [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
 - [Farcaster.vote](https://farcaster.vote/app) - Verifiable & decentralized polls within Farcaster Frames.
