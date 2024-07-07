@@ -8,6 +8,8 @@
   - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
 - [Supercast](https://www.supercast.xyz/)
   - [Web](https://www.supercast.xyz/)
+- [nounspace](https://nounspace.com/)
+  - [Web](https://nounspace.com/)
 - [Yup](https://yup.io/)
   - [Web](https://app.yup.io/feed/farcaster), [iOS](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343), [Android](https://play.google.com/store/apps/details?id=io.yup.app)
 - [far.quest](https://far.quest)
