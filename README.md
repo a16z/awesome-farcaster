@@ -12,8 +12,6 @@
   - [Web](https://app.yup.io/feed/farcaster), [iOS](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343), [Android](https://play.google.com/store/apps/details?id=io.yup.app)
 - [far.quest](https://far.quest)
   - [Web](https://far.quest), Farcaster Wallet: [iOS](https://apps.apple.com/us/app/far-quest-farcaster-wallet/id6477125731), [Android](https://play.google.com/store/apps/details?id=com.wieldlabs.wallet)
-- [Nook](https://nook.social/)
-  - [Web](https://nook.social/), iOS coming soon
 - [Recaster](https://dub.sh/recaster)
   - [iOS](https://dub.sh/recaster)
 - [Litecast](https://github.com/dylsteck/litecast)
