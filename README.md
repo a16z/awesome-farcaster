@@ -32,6 +32,8 @@
 
 ### Specialized
 
+- [Ketchup](https://getketchup.xyz)
+  - Analytics, publishing, and scheduling casts - [Web](https://getketchup.xyz)
 - [Buoy](https://buoy.club)
   - Search & Alerts [iOS](https://buoy.club), [Android](https://buoy.club)
 - [Searchcaster](https://searchcaster.xyz/)
