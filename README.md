@@ -25,6 +25,8 @@
 
 ### Specialized
 
+- [Ketchup](https://getketchup.xyz)
+  - Analytics, Publishing & Scheduling Casts - [Web](https://getketchup.xyz)
 - [Buoy](https://buoy.club)
   - Search & Alerts [iOS](https://buoy.club), [Android](https://buoy.club)
 - [Searchcaster](https://searchcaster.xyz/)
@@ -192,7 +194,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
   - CLI tool and script for scraping Farcaster content via Neynar.
 - [nook-app/nook](https://github.com/nook-app/nook)
-  - Source code for the now-defunct Farcaster client, nook. 
+  - Source code for the now-defunct Farcaster client, nook.
 
 ### Analytics and Data
 
