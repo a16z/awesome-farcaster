@@ -5,22 +5,29 @@
 ### General
 
 - [Warpcast](https://warpcast.com/)
+  - Original Farcaster client by the Merkle Manufactory team.
   - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
 - [Supercast](https://www.supercast.xyz/)
+  - Power user client.
   - [Web](https://www.supercast.xyz/)
+- [Fiids](https://www.fiids.xyz/)
+  - Professionalized, multi-feed forward client.
+  - [Web](https://www.fiids.xyz/)
 - [nounspace](https://nounspace.com/)
   - [Web](https://nounspace.com/)
 - [Yup](https://yup.io/)
+  - Multi-network decentralized social client.
   - [Web](https://app.yup.io/feed/farcaster), [iOS](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343), [Android](https://play.google.com/store/apps/details?id=io.yup.app)
 - [far.quest](https://far.quest)
-  - [Web](https://far.quest), Farcaster Wallet: [iOS](https://apps.apple.com/us/app/far-quest-farcaster-wallet/id6477125731), [Android](https://play.google.com/store/apps/details?id=com.wieldlabs.wallet)
-- [Recaster](https://dub.sh/recaster)
-  - [iOS](https://dub.sh/recaster)
+  - [Web](https://far.quest/cast), Farcaster Wallet: [iOS](https://apps.apple.com/us/app/far-quest-farcaster-wallet/id6477125731), [Android](https://play.google.com/store/apps/details?id=com.wieldlabs.wallet)
 - [Litecast](https://github.com/dylsteck/litecast)
-  - [iOS (Testflight)](https://testflight.apple.com/join/qVTQkztU)
+  - Open source web and mobile client.
+  - [Web](https://litecast.xyz/)
+  - [Web GitHub repo](https://github.com/dylsteck/litecast-web), [Mobile GitHub repo](http://github.com/dylsteck/litecast)
 - [U3](https://u3.xyz)
   - [Web/PWA](https://u3.xyz)
 - [herocast](https://herocast.xyz)
+  - All-in-one Farcaster client for pros and teams.
   - [Web](https://herocast.xyz)
 
 ### Specialized
@@ -71,8 +78,8 @@
   - Meme search engine for Farcaster - [Web](https://magi.lol/)
 - [CasterBites](https://casterbites.com/)
   - Personalised daily digest of Farcaster with highlights, user stats and more - [Web](https://casterbites.com)
-- [Terminal](https://www.farterminal.io/)
-  - A brand new way to launch channel tokens - [Web](https://www.farterminal.io/)
+- [Terminal](https://www.terminal.co/)
+  - Channel token tracker - [Web](https://www.terminal.co/)
 
 ## Tools
 
@@ -160,9 +167,9 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - General-purpose Rust interface.
 - [ertan/go-farcaster](https://github.com/ertan/go-farcaster)
   - General-purpose Go interface.
-- [frog](https://github.com/wevm/frog)
+- [wevm/frog](https://github.com/wevm/frog)
   - Framework and dev tools for Farcaster Frames.
-- [framesjs](https://github.com/framesjs/frames.js)
+- [framesjs/frames.js](https://github.com/framesjs/frames.js)
   - Farcaster Frames in JavaScript.
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
   - Indexes Farcaster profiles and casts.
@@ -196,8 +203,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - A set of Solidity libraries for working with Farcaster messages.
 - [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
   - CLI tool and script for scraping Farcaster content via Neynar.
-- [nook-app/nook](https://github.com/nook-app/nook)
-  - Source code for the now-defunct Farcaster client, nook. 
 
 ### Analytics and Data
 
