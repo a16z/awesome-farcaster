@@ -75,11 +75,11 @@
 - [Bountycaster](https://www.bountycaster.xyz/)
   - Create and complete bounties on Farcaster - [Web](https://www.bountycaster.xyz)
 - [33bits](https://33bits.xyz)
-  - Cast anonymously on Farcaster through Zero-Knowledge proofs - [Web](https://33bits.xyz)
+  - Cast anonymously using zero knowledge proofs - [Web](https://33bits.xyz)
 - [Magi](https://magi.lol/)
   - Meme search engine for Farcaster - [Web](https://magi.lol/)
 - [CasterBites](https://casterbites.com/)
-  - Personalised daily digest of Farcaster with highlights, user stats and more - [Web](https://casterbites.com)
+  - Personalised daily digest of Farcaster with highlights, user stats, and more - [Web](https://casterbites.com)
 - [Terminal](https://www.terminal.co/)
   - Channel token tracker - [Web](https://www.terminal.co/)
 
@@ -92,7 +92,7 @@
 - [Fardrop](https://fardrop.xyz) - Create an allowlist based on followers.
 - [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
 - [Farcaster.vote](https://farcaster.vote/app) - Verifiable & decentralized polls within Farcaster Frames.
-- [Composecastxyz](https://github.com/0xSemicolon/composecastxyz) - Privacy preserving, MIT licensed compose cast gateway
+- [Composecast.xyz](https://github.com/0xSemicolon/composecastxyz) - Privacy preserving, MIT licensed compose cast gateway
 
 ## Bots
 
@@ -114,8 +114,6 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 ### Community
 
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
-- [Warpcast's Ecosystem Page](https://www.farcaster.xyz/apps) - Clients, tools, and other links.
-- [Decaster](https://decaster.xyz) - Curated farcaster ecosystem page.
 - [Yash's Directory](https://directory.yashkarthik.xyz/) - Public mapping between Twitter and Farcaster accounts.
 - [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
 - [FarCon](https://farcon.xyz/) - FarCon is an unconference and experiential public good designed to support and proliferate the Farcaster ecosystem through physical connection.
@@ -220,7 +218,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
 - [Farcaster Hot 100](https://fc.hot100.xyz/) - Trending accounts
-- [Neynar frame analytics](https://docs.neynar.com/reference/validate-frame-analytics) - Get analytics for your frame
+- [Neynar Frame analytics](https://docs.neynar.com/reference/validate-frame-analytics) - Get analytics for your frame
 
 ### Farcaster Frames
 
