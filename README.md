@@ -140,8 +140,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Services
 
-- [Neynar Hosted Hubs](https://hubs.neynar.com)
-- [far.quest Free & Open-Source Farcaster APIs](https://docs.far.quest)
+- [Neynar](https://neynar.com)
+  - Infrastructure services and development tools.
 - [Airstack API Studio](https://app.airstack.xyz)
 - [Airstack Explorer](https://explorer.airstack.xyz)
 - [dTech](https://dtech.vision/)
@@ -158,7 +158,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [ertan/go-farcaster](https://github.com/ertan/go-farcaster)
   - General-purpose Go interface.
 - [frog](https://github.com/wevm/frog)
-  - Framework and DevTools for Farcaster Frames
+  - Framework and dev tools for Farcaster Frames.
 - [framesjs](https://github.com/framesjs/frames.js)
   - Farcaster Frames in JavaScript.
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer)
@@ -196,6 +196,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Analytics and Data
 
+- [Intelligent](https://www.intelligent.wtf/) - Creator analytics and subscriber management.
 - [Farcaster User Stats](https://www.farcasteruserstats.com/) - User analytics. - [GitHub](https://github.com/mattwelter/farcaster-user-stats)
 - [CastSense](https://www.castsense.xyz/) - User and channel analytics.
 - [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
