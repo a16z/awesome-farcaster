@@ -193,7 +193,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 ### Analytics and Data
 
-- [Intelligent](https://www.intelligent.wtf/) - God-view / Cockpit for Identity, Deep analytics, engagement insights, subscriber management and rewards
+- [Intelligent](https://www.intelligent.wtf/) - Creator analytics and subscriber management.
 - [Farcaster User Stats](https://www.farcasteruserstats.com/) - User analytics. - [GitHub](https://github.com/mattwelter/farcaster-user-stats)
 - [CastSense](https://www.castsense.xyz/) - User and channel analytics.
 - [Trendcaster](https://www.trendcaster.xyz) - Personal analytics.
