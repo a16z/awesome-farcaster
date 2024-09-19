@@ -116,7 +116,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Development Examples](https://www.farcaster.xyz/devs)
 - [Hubble Documentation](https://www.thehubble.xyz)
   - Hubble is the first implementation of a Farcaster node.
-- [Easy breakdowns and getting started guides including videos by @samuellhuber](https://dtech.vision/farcaster/) 
+- [dTech's Farcaster Guide](https://dtech.vision/farcaster/)
 - [Neynar API Documentation](https://docs.neynar.com)
   - Various APIs and services for Farcaster.
 - [Airstack API Documentaion](https://docs.airstack.xyz)
@@ -144,7 +144,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [far.quest Free & Open-Source Farcaster APIs](https://docs.far.quest)
 - [Airstack API Studio](https://app.airstack.xyz)
 - [Airstack Explorer](https://explorer.airstack.xyz)
-- [dTech - Farcaster Development Agency and Consulting](https://dtech.vision/)
+- [dTech](https://dtech.vision/)
+  - Farcaster-focused development agency.
 
 ### Repos
 
