@@ -32,13 +32,15 @@
 
 ### Specialized
 
+- [Anser](https://anser.social)
+  - Gowth and Marketing professionals suite for decentralized socials - [Web](https://anser.social)   
 - [Ketchup](https://getketchup.xyz)
   - Analytics, publishing, and scheduling casts - [Web](https://getketchup.xyz)
 - [Buoy](https://buoy.club)
   - Search & Alerts [iOS](https://buoy.club), [Android](https://buoy.club)
 - [Searchcaster](https://searchcaster.xyz/)
   - Search - [Web](https://searchcaster.xyz/)
-- [Crew](https://www.hifromcrew.com/join)
+- Discontinued - [Crew](https://www.hifromcrew.com/join)
   - Team/multiple accounts - [Web](https://www.hifromcrew.com/join)
 - [Alertcaster](https://alertcaster.xyz)
   - Alerts - [Web](https://alertcaster.xyz)
