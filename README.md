@@ -10,6 +10,9 @@
 - [Supercast](https://www.supercast.xyz/)
   - Power user client.
   - [Web](https://www.supercast.xyz/)
+- [Recaster](https://recaster.org)
+  - Farcaster client where you control your own social.
+  - [iOS](https://apps.apple.com/us/app/recaster/id6501970448), [Android](https://play.google.com/store/apps/details?id=org.recaster.app&pli=1)
 - [Fiids](https://www.fiids.xyz/)
   - Professionalized, multi-feed forward client.
   - [Web](https://www.fiids.xyz/)
