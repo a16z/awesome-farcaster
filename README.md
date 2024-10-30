@@ -101,7 +101,7 @@
 ## Bots
 
 These bots are available on Farcaster. You can mention them in a cast to get a reply.
-
+- [@aethernet](https://warpcast.com/aethernet) - A conversational AI agent that can participate in onchain activities with its own sovereign income.
 - [@remindme](https://warpcast.com/remindme) - Reply to any cast with "@remindme `Number` `Day or Month or Year`" to be reminded in the future.
 - [@launch](https://warpcast.com/launch) - Reply to any cast with "@launch `Title (optional)`" to launch on Launchcaster.
 - [@perl](https://warpcast.com/perl) - Reply to any cast with "@perl `Category (optional)`" to save it as a Perl.
