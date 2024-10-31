@@ -22,6 +22,7 @@
   - Multi-network decentralized social client.
   - [Web](https://app.yup.io/feed/farcaster), [iOS](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343), [Android](https://play.google.com/store/apps/details?id=io.yup.app)
 - [far.quest](https://far.quest)
+  - Farcaster exploration through quests, gaming & education.
   - [Web](https://far.quest/cast), Farcaster Wallet: [iOS](https://apps.apple.com/us/app/far-quest-farcaster-wallet/id6477125731), [Android](https://play.google.com/store/apps/details?id=com.wieldlabs.wallet)
 - [Litecast](https://github.com/dylsteck/litecast)
   - Open source web and mobile client.
@@ -122,6 +123,12 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Purple](https://purple.construction/) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
 - [FarCon](https://farcon.xyz/) - FarCon is an unconference and experiential public good designed to support and proliferate the Farcaster ecosystem through physical connection.
 
+### Gaming
+
+- [FarHero](https://far.quest/hero) - 3D Farcaster Trading Card Game.
+- [Flappycaster](https://www.flappycaster.com) - Farcaster Flappy Bird.
+- [Farworld](https://www.farworld.gg) - Onchain Farcaster Monsters.
+
 ## Developer Resources
 
 ### Documentation
@@ -145,7 +152,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Draft Proposals](https://hackmd.io/@farcasterxyz)
 - [Phrasetown's API Docs](https://productive-feet-714.notion.site/Phrasetown-API-Docs-80d46ed343c6453382e46fb58214263a)
   - The Phrasetown client has its own useful API.
-- [far.quest Free Farcaster API Docs](https://docs.far.quest)
+- [Wield Free Farcaster API Docs](https://docs.wield.xyz)
   - Free & open-source APIs for Farcaster.
 - [Dynamic's Sign In With Farcaster SDK](https://docs.dynamic.xyz/guides/integrations/sign-in-with-farcaster)
   - Library for SIWF including making embedded wallets, casting, and more.
@@ -158,6 +165,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - Infrastructure services and development tools.
 - [Airstack API Studio](https://app.airstack.xyz)
 - [Airstack Explorer](https://explorer.airstack.xyz)
+- [Wield APIs](https://docs.wield.xyz)
+  - Free & open-source APIs for Farcaster.
 - [dTech](https://dtech.vision/)
   - Farcaster-focused development agency.
 
