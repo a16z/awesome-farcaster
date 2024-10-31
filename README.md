@@ -114,6 +114,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@ballot](https://warpcast.com/ballot) - Write mention to @ballot with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/ballot/0xeb1a95bb).
 - [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
 - [@indexer](https://warpcast.com/indexer) - AI-powered social search engine leveraging algorithmic and social curation.
+- [@botornot](https://warpcast.com/botornot) - Tools to improve the quality of the content you consume on Farcaster.
 
 ### Community
 
