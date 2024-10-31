@@ -114,6 +114,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@ballot](https://warpcast.com/ballot) - Write mention to @ballot with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/ballot/0xeb1a95bb).
 - [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
 - [@indexer](https://warpcast.com/indexer) - AI-powered social search engine leveraging algorithmic and social curation.
+- [@askgina.eth](https://warpcast.com/askgina.eth) - AskGina is your AI-powered in-feed assistant on the Farcaster network. It's designed to help you with various tasks and queries directly within your Farcaster feed.
 
 ### Community
 
