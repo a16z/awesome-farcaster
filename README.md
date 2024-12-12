@@ -133,7 +133,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [dTech's Farcaster Guide](https://dtech.vision/farcaster/)
 - [Neynar API Documentation](https://docs.neynar.com)
   - Various APIs and services for Farcaster.
-- [Airstack API Documentaion](https://docs.airstack.xyz)
+- [Airstack API Documentation](https://docs.airstack.xyz)
   - Composable Web3 APIs to fetch and combine Farcaster and other onchain & off-chain data, e.g. ENS, Base, Zora, XMTP, etc.
 - [Airstack Activate Kit For Farcaster Auth Kit](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/activate-kit-for-farcaster-auth-kit)
   - A series of API calls to activate Farcaster users after they connect with Farcaster Auth Kit
