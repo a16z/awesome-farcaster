@@ -114,7 +114,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@ballot](https://warpcast.com/ballot) - Write mention to @ballot with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/ballot/0xeb1a95bb).
 - [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
 - [@indexer](https://warpcast.com/indexer) - AI-powered social search engine leveraging algorithmic and social curation.
-
+- [@degenbot](https://warpcast.com/degenbot) - AI-powered tracker for DEGEN swaps on Farcaster.
+  
 ### Community
 
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
@@ -249,7 +250,7 @@ Frames are how you can make posts interactive on Farcaster.
 - [Add share button to a frame example](https://github.com/warpcast/mint-frame/blob/d300c4d168c292613650173a3838ee4b5265035b/src/components/app/mintSuccessSheet.tsx#L68-L70)
 - [Frames v2 miniapp wizard and OpenGraph content](https://github.com/gallery-so/v2-frame-wizard)
 - [How to develop onchain Farcaster Frames with wallet connect and transactions](https://dtech.vision/farcaster/frames/howtobuildonchainfarcasterframes/)
-- 
+
 ## Contributions
 
 This is a community-curated list of Farcaster-related projects. If you have a project that you would like to add, please open a pull request. Please try to match or improve upon the format of the existing entries.
