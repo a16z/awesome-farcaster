@@ -209,9 +209,16 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
   - CLI tool and script for scraping Farcaster content via Neynar.
 - [degen-token/degen-v2-frame](https://github.com/degen-token/degen-v2-frame)
-  - Official DEGEN airdrop frame
+  - Official DEGEN airdrop frame.
 - [thirdweb-example/farcaster-starter](https://github.com/thirdweb-example/farcaster-starter)
-  - Thirdweb Frames Starter
+  - Thirdweb Frames Starter.
+- [horsefacts/interface](https://github.com/horsefacts/interface/pull/2)
+  - Make Uniswap a frame.
+- [warpcast/mint-frame](https://github.com/warpcast/mint-frame/blob/d300c4d168c292613650173a3838ee4b5265035b/src/components/app/mintSuccessSheet.tsx#L68-L70)
+  - Share button to a frame example.
+- [gallery-so/v2-frame-wizard](https://github.com/gallery-so/v2-frame-wizard)
+  - Frames v2 miniapp wizard and OpenGraph content.
+    
 ### Analytics and Data
 
 - [Intelligent](https://www.intelligent.wtf/) - Creator analytics and subscriber management.
@@ -252,10 +259,7 @@ Frames are how you can make posts interactive on Farcaster.
 - [Neynar hosted frames](https://docs.neynar.com/reference/publish-neynar-frame)
 - [Frames v2 page](https://framesv2.com)
 - [YouTube: How to convert your web app to a frame video by horsefacts.eth](https://www.youtube.com/watch?v=9Dc64u8JTu0)
-- [Make Uniswap a frame](https://github.com/horsefacts/interface/pull/2)
 - [Frames.js debugger](https://debugger.framesjs.org/)
-- [Add share button to a frame example](https://github.com/warpcast/mint-frame/blob/d300c4d168c292613650173a3838ee4b5265035b/src/components/app/mintSuccessSheet.tsx#L68-L70)
-- [Frames v2 miniapp wizard and OpenGraph content](https://github.com/gallery-so/v2-frame-wizard)
 - [How to develop onchain Farcaster Frames with wallet connect and transactions](https://dtech.vision/farcaster/frames/howtobuildonchainfarcasterframes/)
 
 ## Contributions
