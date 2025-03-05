@@ -225,6 +225,10 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Hot 100](https://fc.hot100.xyz/) - Trending accounts
 - [Neynar Frame analytics](https://docs.neynar.com/reference/validate-frame-analytics) - Get analytics for your frame
 
+#### Datasets
+
+- [Farcaster Casts](https://huggingface.co/datasets/jc4p/farcaster-casts)
+
 ### Farcaster Frames
 
 Frames are how you can make posts interactive on Farcaster.
