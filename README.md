@@ -210,7 +210,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - CLI tool and script for scraping Farcaster content via Neynar.
 - [degen-token/degen-v2-frame](https://github.com/degen-token/degen-v2-frame)
   - Official DEGEN airdrop frame
-
+- [thirdweb-example/farcaster-starter](https://github.com/thirdweb-example/farcaster-starter)
+  - Thirdweb Frames Starter
 ### Analytics and Data
 
 - [Intelligent](https://www.intelligent.wtf/) - Creator analytics and subscriber management.
