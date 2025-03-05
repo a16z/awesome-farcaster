@@ -242,7 +242,14 @@ Frames are how you can make posts interactive on Farcaster.
 - [topframes.xyz](https://app.topframes.xyz)
   - Curated directory of novel Frames.
 - [Neynar hosted frames](https://docs.neynar.com/reference/publish-neynar-frame)
-
+- [Frames v2 page](https://framesv2.com)
+- [YouTube: How to convert your web app to a frame video by horsefacts.eth](https://www.youtube.com/watch?v=9Dc64u8JTu0)
+- [Make Uniswap a frame](https://github.com/horsefacts/interface/pull/2)
+- [Frames.js debugger](https://debugger.framesjs.org/)
+- [Add share button to a frame example](https://github.com/warpcast/mint-frame/blob/d300c4d168c292613650173a3838ee4b5265035b/src/components/app/mintSuccessSheet.tsx#L68-L70)
+- [Frames v2 miniapp wizard and OpenGraph content](https://github.com/gallery-so/v2-frame-wizard)
+- [How to develop onchain Farcaster Frames with wallet connect and transactions](https://dtech.vision/farcaster/frames/howtobuildonchainfarcasterframes/)
+- 
 ## Contributions
 
 This is a community-curated list of Farcaster-related projects. If you have a project that you would like to add, please open a pull request. Please try to match or improve upon the format of the existing entries.
