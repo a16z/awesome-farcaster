@@ -114,7 +114,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [@ballot](https://warpcast.com/ballot) - Write mention to @ballot with a question and a list of options and it will create a frame from [Farcaster.vote](https://farcaster.vote/app) for you. [Example](https://warpcast.com/ballot/0xeb1a95bb).
 - [@events](https://warpcast.com/event) - Up-to-date event.xyz information via frames.
 - [@indexer](https://warpcast.com/indexer) - AI-powered social search engine leveraging algorithmic and social curation.
-
+- [@degenbot](https://warpcast.com/degenbot) - AI-powered tracker for DEGEN swaps on Farcaster.
+  
 ### Community
 
 - [Citycaster](https://citycaster.xyz) - City-based Telegram groups.
@@ -209,7 +210,17 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - A set of Solidity libraries for working with Farcaster messages.
 - [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
   - CLI tool and script for scraping Farcaster content via Neynar.
-
+- [degen-token/degen-v2-frame](https://github.com/degen-token/degen-v2-frame)
+  - Official DEGEN airdrop Frame.
+- [thirdweb-example/farcaster-starter](https://github.com/thirdweb-example/farcaster-starter)
+  - Thirdweb Frames Starter.
+- [horsefacts/interface](https://github.com/horsefacts/interface/pull/2)
+  - Make Uniswap a Frame.
+- [warpcast/mint-frame](https://github.com/warpcast/mint-frame/blob/d300c4d168c292613650173a3838ee4b5265035b/src/components/app/mintSuccessSheet.tsx#L68-L70)
+  - Share button to a Frame example.
+- [gallery-so/v2-frame-wizard](https://github.com/gallery-so/v2-frame-wizard)
+  - Frames v2 miniapp wizard and OpenGraph content.
+    
 ### Analytics and Data
 
 - [Intelligent](https://www.intelligent.wtf/) - Creator analytics and subscriber management.
@@ -225,6 +236,10 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
 - [Farcaster Hot 100](https://fc.hot100.xyz/) - Trending accounts
 - [Neynar Frame analytics](https://docs.neynar.com/reference/validate-frame-analytics) - Get analytics for your frame
+
+#### Datasets
+
+- [Farcaster Casts](https://huggingface.co/datasets/jc4p/farcaster-casts)
 
 ### Farcaster Frames
 
@@ -244,6 +259,10 @@ Frames are how you can make posts interactive on Farcaster.
 - [topframes.xyz](https://app.topframes.xyz)
   - Curated directory of novel Frames.
 - [Neynar hosted frames](https://docs.neynar.com/reference/publish-neynar-frame)
+- [Frames v2 page](https://framesv2.com)
+- [YouTube: How to convert your web app to a frame video by horsefacts.eth](https://www.youtube.com/watch?v=9Dc64u8JTu0)
+- [Frames.js debugger](https://debugger.framesjs.org/)
+- [How to develop onchain Farcaster Frames with wallet connect and transactions](https://dtech.vision/farcaster/frames/howtobuildonchainfarcasterframes/)
 
 ## Contributions
 
