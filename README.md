@@ -263,6 +263,8 @@ Frames are how you can make posts interactive on Farcaster.
 - [YouTube: How to convert your web app to a frame video by horsefacts.eth](https://www.youtube.com/watch?v=9Dc64u8JTu0)
 - [Frames.js debugger](https://debugger.framesjs.org/)
 - [How to develop onchain Farcaster Frames with wallet connect and transactions](https://dtech.vision/farcaster/frames/howtobuildonchainfarcasterframes/)
+- [Farcaster Frames V2 Starter on Remix and Cloudflare](https://github.com/artlu99/framesv2-remix-cf)
+- [A template for building Next.js mini-app compatible with Farcaster and Worldcoin](https://github.com/builders-garden/miniapp-next-template)
 
 ## Contributions
 
