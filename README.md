@@ -167,6 +167,8 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
   - General-purpose JS interface.
 - [a16z/farcaster-py](https://github.com/a16z/farcaster-py)
   - General-purpose Python interface.
+- [0x330a-public/fatline-rs](https://github.com/0x330a-public/fatline-rs)
+  - Rust library implementing common RPC functions.
 - [TheLDB/farcaster-rs](https://github.com/TheLDB/farcaster-rs)
   - General-purpose Rust interface.
 - [ertan/go-farcaster](https://github.com/ertan/go-farcaster)
