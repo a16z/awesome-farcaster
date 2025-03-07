@@ -7,9 +7,9 @@
 - [Warpcast](https://warpcast.com/)
   - Original Farcaster client by the Merkle Manufactory team.
   - [Web](https://warpcast.com/), [iOS](https://apps.apple.com/us/app/farcaster/id1600555445), [Android](https://play.google.com/store/apps/details?id=com.farcaster.mobile)
-- [Supercast](https://www.supercast.xyz/)
-  - Power user client.
-  - [Web](https://www.supercast.xyz/)
+- [Super](https://www.super.sc/)
+  - Farcaster client with novel onchain features like claiming airdrops and posting anonymously.
+  - [Web](https://www.super.sc/)
 - [Recaster](https://recaster.org)
   - Client that offers extensive UI controls and configuration.
   - [iOS](https://apps.apple.com/us/app/recaster/id6501970448), [Android](https://play.google.com/store/apps/details?id=org.recaster.app&pli=1)
