@@ -44,6 +44,8 @@
   - Search - [Web](https://searchcaster.xyz/)
 - [Alertcaster](https://alertcaster.xyz)
   - Alerts - [Web](https://alertcaster.xyz)
+- [GenGram by Koda.art](https://gengram.koda.art)
+  - Highlights generative artworks from [/gen-art](https://warpcast.com/~/channel/gen-art) channel for now, made by [/koda](https://warpcast.com/~/channel/koda) community  
 - [Launchcaster](https://launchcaster.xyz)
   - Track project launches - [Web](https://launchcaster.xyz)
 - [Pincaster](https://pincaster.xyz)
