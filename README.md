@@ -209,13 +209,13 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [leo5imon/farcaster-scraper](https://github.com/leo5imon/farcaster-scraper)
   - CLI tool and script for scraping Farcaster content via Neynar.
 - [degen-token/degen-v2-frame](https://github.com/degen-token/degen-v2-frame)
-  - Official DEGEN airdrop frame.
+  - Official DEGEN airdrop Frame.
 - [thirdweb-example/farcaster-starter](https://github.com/thirdweb-example/farcaster-starter)
   - Thirdweb Frames Starter.
 - [horsefacts/interface](https://github.com/horsefacts/interface/pull/2)
-  - Make Uniswap a frame.
+  - Make Uniswap a Frame.
 - [warpcast/mint-frame](https://github.com/warpcast/mint-frame/blob/d300c4d168c292613650173a3838ee4b5265035b/src/components/app/mintSuccessSheet.tsx#L68-L70)
-  - Share button to a frame example.
+  - Share button to a Frame example.
 - [gallery-so/v2-frame-wizard](https://github.com/gallery-so/v2-frame-wizard)
   - Frames v2 miniapp wizard and OpenGraph content.
     
