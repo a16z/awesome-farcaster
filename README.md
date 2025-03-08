@@ -240,6 +240,9 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 #### Datasets
 
 - [Farcaster Casts](https://huggingface.co/datasets/jc4p/farcaster-casts)
+  - This dataset contains 157,054,986 public casts (posts) from the Farcaster social protocol that have not been deleted by their authors.
+- [Farcaster Reactions](https://huggingface.co/datasets/jc4p/farcaster-reactions)
+  - This dataset contains 290,988,213 public reactions from the Farcaster social protocol that have not been deleted by their authors. 
 
 ### Farcaster Frames
 
