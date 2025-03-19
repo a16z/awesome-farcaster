@@ -257,6 +257,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 
 Frames are how you can make posts interactive on Farcaster.
 
+- [Frames Developer Chat on Warpcast](https://warpcast.com/~/group/X2P7HNc4PHTriCssYHNcmQ)
 - [Frames Intro and Resources](https://docs.farcaster.xyz/learn/what-is-farcaster/frames)
   - From the Warpcast team.
 - [Farcaster Frame Tech Spec](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
